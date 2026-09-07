@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NDECC Rehearsal Tool</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="gate-screen" class="screen">
+  <div class="gate-box">
+    <div class="brand">Uprising Test Prep</div>
+    <h1>NDECC Self-Practice Rehearsal Tool</h1>
+    <p class="muted">Enter your access code to begin.</p>
+    <input id="access-code-input" type="text" placeholder="Access Code" autocomplete="off">
+    <button id="gate-submit" class="btn btn-primary">Enter</button>
+    <p id="gate-error" class="error"></p>
+  </div>
+</div>
+
+<div id="menu-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <div>
+      <div class="brand">Uprising Test Prep</div>
+      <h1>NDECC Rehearsal Tool</h1>
+    </div>
+    <div class="header-actions">
+      <a href="flashcards/index.html" target="_blank" class="btn btn-ghost">Flashcards</a>
+    </div>
+  </header>
+
+  <div class="menu-body">
+    <div class="mode-card" id="mode-clinical">
+      <h2>Clinical Skills Rehearsal (Day 1)</h2>
+      <p>Practice all 7 real NDECC procedures on your own manikin with an 8 hour exam-day timer, an IC&amp;S error counter, and self-check cases with the full grading rubric for each procedure.</p>
+      <button class="btn btn-primary btn-block">Start Clinical Skills Mode</button>
+    </div>
+    <div class="mode-card" id="mode-sj">
+      <h2>Situational Judgement Stations (Day 2)</h2>
+      <p>Step through the 100 practice stations across all 5 real domains with a per-station countdown timer and full model answers.</p>
+      <button class="btn btn-primary btn-block">Start Situational Judgement Mode</button>
+    </div>
+  </div>
+
+  <p class="disclosure">
+    Note: NDEB does not publish the exact per-station Situational Judgement timing.
+    This tool uses roughly 20 to 24 minutes per station as a disclosed practice assumption,
+    not an official fact. Everything else on this page (7 procedures, 8 hour Day 1, max 3 IC&amp;S
+    errors, 10 real stations across 5 domains, must pass 6 of 10 and at least 1 per domain)
+    reflects the real published NDECC exam structure.
+  </p>
+</div>
+
+<!-- ===================== CLINICAL SKILLS MODE ===================== -->
+<div id="clinical-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="clinical-back" class="btn btn-ghost">&#8592; Menu</button>
+    <div><h1>Clinical Skills Rehearsal</h1></div>
+    <div></div>
+  </header>
+
+  <div class="clinical-body">
+    <section class="panel timer-panel">
+      <h2>Day 1 Exam Timer (8 Hours)</h2>
+      <div id="day-timer-display">8:00:00</div>
+      <div class="timer-controls">
+        <button id="day-timer-start" class="btn btn-primary">Start</button>
+        <button id="day-timer-pause" class="btn btn-ghost">Pause</button>
+        <button id="day-timer-reset" class="btn btn-ghost">Reset</button>
+      </div>
+    </section>
+
+    <section class="panel icands-panel">
+      <h2>IC&amp;S Error Counter</h2>
+      <p class="muted">The real exam allows a maximum of 3 Infection Control and Safety errors across the day. A 4th error is an automatic fail.</p>
+      <div id="icands-count-display">0 of 3</div>
+      <div class="timer-controls">
+        <button id="icands-log" class="btn btn-danger">Log an IC&amp;S Error</button>
+        <button id="icands-reset" class="btn btn-ghost">Reset Counter</button>
+      </div>
+      <div id="icands-fail-banner" class="fail-banner" style="display:none">
+        AUTOMATIC FAIL - IC&amp;S threshold exceeded
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Seven Procedures</h2>
+      <div id="procedure-list"></div>
+    </section>
+  </div>
+</div>
+
+<div id="case-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="case-back" class="btn btn-ghost">&#8592; Clinical Skills</button>
+    <div id="case-title-header"></div>
+    <div></div>
+  </header>
+
+  <div class="case-body">
+    <section class="panel">
+      <h2>Scenario</h2>
+      <p><strong id="case-tooth"></strong></p>
+      <p id="case-scenario"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Technique Notes</h2>
+      <p id="case-technique"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Grading Checklist</h2>
+      <div id="case-checklist"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Critical Errors (Automatic Fail On This Procedure)</h2>
+      <div id="case-critical"></div>
+    </section>
+
+    <div class="case-controls">
+      <button id="case-another" class="btn btn-ghost">Show Another Case</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== SITUATIONAL JUDGEMENT MODE ===================== -->
+<div id="sj-screen" class="screen" style="display:none">
+  <header class="app-header">
+    <button id="sj-back" class="btn btn-ghost">&#8592; Menu</button>
+    <div><h1>Situational Judgement Stations</h1></div>
+    <div></div>
+  </header>
+
+  <div class="filters">
+    <select id="sj-domain-filter">
+      <option value="">All Domains</option>
+    </select>
+    <span id="sj-tally" class="muted"></span>
+  </div>
+
+  <div class="sj-body">
+    <div class="meta-row">
+      <span id="sj-domain-badge" class="badge"></span>
+      <span id="sj-station-num" class="badge"></span>
+    </div>
+
+    <section class="panel">
+      <h2>Scenario</h2>
+      <p id="sj-scenario-text"></p>
+    </section>
+
+    <section class="panel">
+      <h2>Task Instruction</h2>
+      <p id="sj-task-text"></p>
+    </section>
+
+    <section class="panel timer-panel">
+      <h2>Station Timer</h2>
+      <p class="muted">Practice default: 22 minutes. This is a disclosed assumption, not an official NDEB figure.</p>
+      <div id="sj-timer-display">22:00</div>
+      <div class="timer-controls">
+        <button id="sj-timer-start" class="btn btn-primary">Start</button>
+        <button id="sj-timer-reset" class="btn btn-ghost">Reset</button>
+      </div>
+    </section>
+
+    <section class="panel" id="sj-reveal-panel">
+      <button id="sj-reveal-btn" class="btn btn-primary btn-block">Reveal Model Answer</button>
+    </section>
+
+    <section id="sj-answer-section" class="panel" style="display:none">
+      <h2>Competent Behaviors</h2>
+      <ul id="sj-competent-list"></ul>
+
+      <h2>Minimally Competent Behaviors</h2>
+      <ul id="sj-minimal-list"></ul>
+
+      <h2>Critical Errors</h2>
+      <ul id="sj-critical-list"></ul>
+
+      <h2>Model Answer</h2>
+      <p id="sj-model-answer"></p>
+
+      <div class="self-assess-row">
+        <button id="sj-mark-pass" class="btn btn-primary">Self-Assessed: Pass</button>
+        <button id="sj-mark-work" class="btn btn-ghost">Needs More Work</button>
+      </div>
+    </section>
+
+    <div class="sj-nav">
+      <button id="sj-prev" class="btn btn-ghost">Previous</button>
+      <span id="sj-position" class="muted"></span>
+      <button id="sj-next" class="btn btn-ghost">Next</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

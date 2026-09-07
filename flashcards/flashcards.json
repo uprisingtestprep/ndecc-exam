@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "topic": "class_ii_amalgam_prep",
+    "front": "On the NDECC Class II amalgam preparation, what defines Competent for the proximal and gingival margins in Outline Form?",
+    "back": "The proximal and gingival margins clear the adjacent tooth by 0.5mm, with optimal buccal-lingual width and optimal reverse curve placement."
+  },
+  {
+    "id": 2,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What proximal clearance range is Minimally Competent on the Class II amalgam prep Outline Form criterion?",
+    "back": "Proximal clearance greater than 0.5mm and less than 1.5mm, or greater than 0mm and less than 0.5mm, is Minimally Competent."
+  },
+  {
+    "id": 3,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What gingival clearance range is Minimally Competent for Outline Form on the Class II amalgam prep?",
+    "back": "Gingival clearance greater than 0.5mm and less than 2.0mm is Minimally Competent."
+  },
+  {
+    "id": 4,
+    "topic": "class_ii_amalgam_prep",
+    "front": "At what proximal or gingival clearance does the Class II amalgam prep Outline Form become a Fail?",
+    "back": "A Fail occurs when proximal or gingival clearance is 1.5mm or greater."
+  },
+  {
+    "id": 5,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Besides clearance, name three other ways Outline Form can Fail on the Class II amalgam prep.",
+    "back": "A prep too narrow for the smallest condenser, removal of sound tooth structure that compromises integrity, and divergent or flared proximal box walls are all Outline Form Fails."
+  },
+  {
+    "id": 6,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is the Competent pulpal floor depth range in Internal Form on the Class II amalgam prep?",
+    "back": "1.5mm to 2.0mm is the Competent pulpal floor depth."
+  },
+  {
+    "id": 7,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is the Competent mesial-distal gingival floor width on the Class II amalgam prep?",
+    "back": "1.5mm to 2.0mm mesial-distal gingival floor width is Competent."
+  },
+  {
+    "id": 8,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What pulpal floor depth range is Minimally Competent on the Class II amalgam prep?",
+    "back": "A pulpal floor that is too shallow at 1.0mm to less than 1.5mm, or too deep at greater than 2.0mm to less than 3.0mm, is Minimally Competent."
+  },
+  {
+    "id": 9,
+    "topic": "class_ii_amalgam_prep",
+    "front": "At what pulpal floor depth does the Class II amalgam prep Internal Form Fail?",
+    "back": "Fail occurs at a pulpal floor depth less than 1.0mm or 3.0mm or greater."
+  },
+  {
+    "id": 10,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What gingival floor width range is Minimally Competent for Internal Form on the amalgam prep?",
+    "back": "A gingival floor width greater than 2.0mm and less than 3.0mm is Minimally Competent."
+  },
+  {
+    "id": 11,
+    "topic": "class_ii_amalgam_prep",
+    "front": "At what gingival floor width does the Class II amalgam prep Internal Form Fail?",
+    "back": "Fail occurs at a gingival floor width less than 1.0mm or 3.0mm or greater."
+  },
+  {
+    "id": 12,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Besides the depth and width thresholds, what other findings Fail the Internal Form criterion?",
+    "back": "Overpreparation causing unsupported enamel occlusally, and occlusally divergent internal form that compromises retention, are also Internal Form Fails."
+  },
+  {
+    "id": 13,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What does Competent Internal Form require regarding internal line angles and resistance/retention form?",
+    "back": "Rounded internal line angles plus optimal resistance form and retention form."
+  },
+  {
+    "id": 14,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is Minimally Competent for resistance form and retention form on the amalgam prep?",
+    "back": "Adequate, though not optimal, resistance form and retention form."
+  },
+  {
+    "id": 15,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What defines Competent Finish on the Class II amalgam preparation?",
+    "back": "Smooth cavosurface margins and internal surfaces with no unsupported enamel."
+  },
+  {
+    "id": 16,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is Minimally Competent for the Finish criterion on the amalgam prep?",
+    "back": "Unsupported enamel or roughness that does not compromise marginal integrity, and internal roughness that does not compromise restoration integrity."
+  },
+  {
+    "id": 17,
+    "topic": "class_ii_amalgam_prep",
+    "front": "When does the Finish criterion Fail on the Class II amalgam prep?",
+    "back": "Fail occurs when unsupported enamel or roughness compromises marginal integrity, or internal roughness compromises restoration integrity."
+  },
+  {
+    "id": 18,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is a cavosurface margin?",
+    "back": "The junction where the prepared internal walls of the cavity meet the external, unprepared surface of the tooth. Its smoothness is graded under the Finish criterion."
+  },
+  {
+    "id": 19,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What defines Competent Damage on the Class II amalgam prep?",
+    "back": "No damage to the exam tooth beyond the prep itself, no damage to adjacent teeth, and no damage to soft tissue."
+  },
+  {
+    "id": 20,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is Minimally Competent for the Damage criterion?",
+    "back": "Damage correctable by enameloplasty, or minor soft tissue damage."
+  },
+  {
+    "id": 21,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What findings Fail the Damage criterion on the amalgam prep?",
+    "back": "Damage requiring a restoration, excessive soft tissue damage, or tooth structure repaired with restorative material."
+  },
+  {
+    "id": 22,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is enameloplasty in the context of Damage grading?",
+    "back": "Reshaping or smoothing enamel to correct a minor defect without placing restorative material; damage correctable this way is graded Minimally Competent, not a Fail."
+  },
+  {
+    "id": 23,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What are the Critical Errors for the Class II amalgam preparation?",
+    "back": "Any error that prevents evaluation of the exam tooth, or no preparation being performed on the assigned tooth. Either is an automatic fail regardless of other criteria."
+  },
+  {
+    "id": 24,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is a condenser, and how does it relate to Outline Form grading?",
+    "back": "A condenser is a hand instrument used to pack and compact amalgam into a cavity preparation. If the prep is too narrow for the smallest condenser to reach and compact the material, Outline Form is a Fail."
+  },
+  {
+    "id": 25,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is resistance form?",
+    "back": "The shape features of a preparation, such as a flat pulpal floor and rounded internal line angles, that help the tooth and the restoration withstand occlusal forces without fracturing."
+  },
+  {
+    "id": 26,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is retention form?",
+    "back": "The shape features of a preparation, such as parallel or slightly converging walls, that resist displacement of the restoration under lateral or dislodging forces."
+  },
+  {
+    "id": 27,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What is the reverse curve in a Class II amalgam preparation, and which criterion grades it?",
+    "back": "A curved extension of the isthmus and pulpal floor that follows the natural marginal ridge contour rather than cutting straight across; its placement is graded as part of Outline Form."
+  },
+  {
+    "id": 28,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Why must proximal box walls not be divergent or flared on the amalgam prep?",
+    "back": "Divergent or flared proximal box walls fail to retain the restoration and are graded a Fail under Outline Form."
+  },
+  {
+    "id": 29,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Which two internal dimensions on the Class II amalgam prep share the identical Competent range of 1.5mm to 2.0mm?",
+    "back": "Pulpal floor depth and mesial-distal gingival floor width both have a Competent range of 1.5mm to 2.0mm."
+  },
+  {
+    "id": 30,
+    "topic": "class_ii_amalgam_prep",
+    "front": "How many grading criteria categories does the Class II amalgam preparation use?",
+    "back": "Four: Outline Form, Internal Form, Finish, and Damage, plus a separate list of Critical Errors."
+  },
+  {
+    "id": 31,
+    "topic": "class_ii_amalgam_prep",
+    "front": "On the NDECC, what are the three possible tiers for every grading criterion?",
+    "back": "Competent (pass, optimal), Minimally Competent (pass, acceptable), and Not Competent (fail)."
+  },
+  {
+    "id": 32,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Does the amalgam preparation criterion allow partial credit toward a passing grade?",
+    "back": "No. Like all seven Day 1 Clinical Skills procedures, it is graded Pass or Fail per procedure with no partial credit and no percentage score."
+  },
+  {
+    "id": 33,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Is proximal clearance of exactly 0.5mm Competent or Minimally Competent?",
+    "back": "Exactly 0.5mm is Competent. The margin must clear the adjacent tooth by 0.5mm to be Competent; Minimally Competent covers the ranges above and below that value up to 1.5mm."
+  },
+  {
+    "id": 34,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Is a gingival clearance of exactly 2.0mm a Fail on the amalgam prep?",
+    "back": "Yes. Fail is defined as gingival (or proximal) clearance of 1.5mm or greater, and 2.0mm is well past that threshold, so it fails outright rather than sitting in the Minimally Competent band, which only covers 0.5 to just under 2.0mm."
+  },
+  {
+    "id": 35,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Is a pulpal floor depth of exactly 3.0mm a Fail?",
+    "back": "Yes, 3.0mm or greater is a Fail under Internal Form."
+  },
+  {
+    "id": 36,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Is a mesial-distal gingival floor width of 0.9mm Competent, Minimally Competent, or Fail?",
+    "back": "Fail. Gingival floor width less than 1.0mm is a Fail, and 0.9mm is clearly below that threshold, well short of the Competent range of 1.5 to 2.0mm."
+  },
+  {
+    "id": 37,
+    "topic": "class_ii_amalgam_prep",
+    "front": "For the Class II amalgam preparation, on which tooth notation system are exam teeth identified, for example tooth 4.6?",
+    "back": "The FDI two-digit tooth notation (ISO 3950), used throughout the NDECC, not the American Universal Numbering System."
+  },
+  {
+    "id": 38,
+    "topic": "class_ii_amalgam_prep",
+    "front": "What does the Infection Control and Safety (IC&S) allowance mean for a candidate performing the amalgam prep?",
+    "back": "IC&S is assessed across the whole Day 1 exam, not per procedure. A candidate may make up to 3 IC&S errors across the day; a 4th error is an automatic fail of the entire day."
+  },
+  {
+    "id": 39,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Which single Class II amalgam prep criterion combines both a numeric clearance rule and a physical instrument-access rule?",
+    "back": "Outline Form: it sets numeric proximal and gingival clearance thresholds and also fails a prep too narrow for the smallest condenser to enter."
+  },
+  {
+    "id": 40,
+    "topic": "class_ii_amalgam_prep",
+    "front": "Summarize the four Class II amalgam prep criteria and their Critical Errors in one line each.",
+    "back": "Outline Form grades margin clearance and proximal box wall angulation; Internal Form grades pulpal floor depth, gingival floor width, and resistance/retention form; Finish grades smoothness of cavosurface margins and internal surfaces; Damage grades harm to the tooth, adjacent teeth, and soft tissue; Critical Errors are anything preventing evaluation or no preparation on the assigned tooth, either an automatic fail."
+  },
+  {
+    "id": 41,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "For a Class II amalgam restoration, what defines a Competent margin?",
+    "back": "The tooth-restoration junction is not detectable. There is no palpable or visible step, ledge, or gap between the amalgam and the surrounding tooth structure."
+  },
+  {
+    "id": 42,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "How much amalgam beyond the prep at the margin is still Minimally Competent?",
+    "back": "Amalgam extending up to and including 0.5mm beyond the prep is Minimally Competent, along with a margin deficiency correctable by enameloplasty."
+  },
+  {
+    "id": 43,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "At what point does excess amalgam at the margin become a Fail?",
+    "back": "Any amalgam extending more than 0.5mm beyond the prep is a Fail, as is any margin deficiency or void that would require replacement of the restoration."
+  },
+  {
+    "id": 44,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What is the exact grading threshold that separates Minimally Competent from Fail for margin overhang on a Class II amalgam?",
+    "back": "0.5mm. Amalgam extending up to 0.5mm beyond the prep passes as Minimally Competent; anything greater than 0.5mm is a Fail."
+  },
+  {
+    "id": 45,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define proximal contours as graded on a Class II amalgam restoration.",
+    "back": "Proximal contours describe how well the restoration reproduces the natural convex shape of the tooth's mesial or distal surface below the contact area, including the gingival embrasure form."
+  },
+  {
+    "id": 46,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What is a Competent result for proximal contours on a Class II amalgam?",
+    "back": "Physiologic contours are optimally restored and the proximal contact is optimal."
+  },
+  {
+    "id": 47,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What under/overcontour amount at the axial surface is Minimally Competent for proximal contours?",
+    "back": "Under or overcontour that is less than 1.0mm and limited to the axial surface only is Minimally Competent."
+  },
+  {
+    "id": 48,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What is the exact grading threshold for axial surface contour deviation on a Class II amalgam proximal contour?",
+    "back": "<1.0mm. Axial surface under or overcontour of less than 1.0mm is Minimally Competent; the reference table gives no explicit upper Fail number, but a deviation that negatively impacts gingival health is a Fail regardless of magnitude."
+  },
+  {
+    "id": 49,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What proximal contact quality is Minimally Competent rather than Competent?",
+    "back": "A contact that is present but small, light, or not optimal is Minimally Competent, since it still functions as a contact even though it falls short of the ideal."
+  },
+  {
+    "id": 50,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What two proximal contact conditions are graded as a Fail?",
+    "back": "An absent proximal contact where floss passes through with no resistance, or a contact so tight it blocks floss entirely, are both Fail."
+  },
+  {
+    "id": 51,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What over/undercontour condition of the proximal surface is a Fail?",
+    "back": "Over or undercontour that negatively impacts gingival health is a Fail, regardless of the millimetre measurement."
+  },
+  {
+    "id": 52,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define the term physiologic contour.",
+    "back": "Physiologic contour is the natural, healthy convex shape of a tooth surface that supports proper gingival contour, food deflection away from the gingiva, and periodontal health."
+  },
+  {
+    "id": 53,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define the term proximal contact.",
+    "back": "Proximal contact is the point where the mesial or distal surface of a restored tooth touches the adjacent tooth, holding the arch together and preventing food impaction interproximally."
+  },
+  {
+    "id": 54,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "How is proximal contact quality clinically tested?",
+    "back": "Dental floss is passed through the contact. A correct contact allows floss through with some resistance (a slight snap); no resistance means the contact is absent (Fail), and floss that cannot pass at all means the contact is too tight (Fail)."
+  },
+  {
+    "id": 55,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What does the occlusal morphology and function criterion evaluate on a Class II amalgam?",
+    "back": "It evaluates whether the occlusal surface reproduces natural anatomic form (cusps, ridges, grooves) and whether the resulting occlusal contacts function properly with the opposing dentition."
+  },
+  {
+    "id": 56,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What is a Competent result for occlusal morphology and function?",
+    "back": "Optimal occlusal contacts and morphology that approximates natural anatomy."
+  },
+  {
+    "id": 57,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What over/undercontour condition of occlusal morphology is Minimally Competent?",
+    "back": "Over or undercontour that does not affect the occlusal contacts is Minimally Competent, since function is preserved even though anatomic form is imperfect."
+  },
+  {
+    "id": 58,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What supraocclusion finding is Minimally Competent for a Class II amalgam?",
+    "back": "Supraocclusion (the restoration is high) is Minimally Competent only if light contacts are still present elsewhere in the quadrant, meaning the bite is not fully thrown off."
+  },
+  {
+    "id": 59,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "When is supraocclusion a Fail rather than Minimally Competent?",
+    "back": "Supraocclusion is a Fail when it risks fracture or trauma, meaning the restoration is so high it concentrates destructive occlusal force."
+  },
+  {
+    "id": 60,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What undercontoured occlusal finding is a Fail on a Class II amalgam?",
+    "back": "An undercontoured occlusal surface that is too thin and risks fracture is a Fail."
+  },
+  {
+    "id": 61,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define the term articulating paper and its use in grading a Class II amalgam.",
+    "back": "Articulating paper is thin coloured marking paper placed between the teeth to mark occlusal contact points. It is used to verify occlusal contacts are present, appropriately distributed, and not supraocclusal on the new restoration."
+  },
+  {
+    "id": 62,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What is a Competent result for the finish criterion on a Class II amalgam?",
+    "back": "Optimal surface quality: the restoration is smooth with no roughness or voids affecting contours or margins."
+  },
+  {
+    "id": 63,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What roughness finding is Minimally Competent for finish on a Class II amalgam?",
+    "back": "Roughness that is correctable by polishing without impacting the contours of the restoration is Minimally Competent."
+  },
+  {
+    "id": 64,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What roughness finding is a Fail for finish on a Class II amalgam?",
+    "back": "Roughness that impacts the contours (creating a plaque retention risk) is a Fail."
+  },
+  {
+    "id": 65,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Besides roughness, what other finish finding is automatically a Fail on a Class II amalgam?",
+    "back": "Voids anywhere other than at the margin that require replacement of the restoration are a Fail."
+  },
+  {
+    "id": 66,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define the term burnishing as it relates to amalgam restoration.",
+    "back": "Burnishing is rubbing the surface of a condensed or carved amalgam restoration with a smooth instrument to compact and smooth the surface, improve marginal adaptation, and reduce voids before final carving and polishing."
+  },
+  {
+    "id": 67,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Define the term condensation as it relates to amalgam restoration.",
+    "back": "Condensation is the process of packing freshly triturated amalgam into the prepared cavity in increments using pressure, which removes excess mercury, eliminates voids, and adapts the material tightly against the cavity walls and margins."
+  },
+  {
+    "id": 68,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What damage tiers apply to the exam tooth, adjacent teeth, or soft tissue on a Class II amalgam restoration?",
+    "back": "Competent is no damage at all. Minimally Competent is damage correctable by enameloplasty or minor soft tissue damage. Fail is damage requiring a restoration."
+  },
+  {
+    "id": 69,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What defines Minimally Competent damage on a Class II amalgam restoration?",
+    "back": "Damage that is correctable by enameloplasty, or minor soft tissue damage, is Minimally Competent."
+  },
+  {
+    "id": 70,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "What defines a Fail level of damage on a Class II amalgam restoration?",
+    "back": "Damage requiring a restoration is a Fail, meaning the harm to the exam tooth, an adjacent tooth, or soft tissue is severe enough that a simple correction is not sufficient."
+  },
+  {
+    "id": 71,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "List the critical errors defined for a Class II amalgam restoration.",
+    "back": "Anything that prevents evaluation, foreign objects or materials remaining in the oral cavity, no restoration placed, wrong tooth restored, inappropriate or incorrect material used, or the restoration fractured or loose."
+  },
+  {
+    "id": 72,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Why is 'wrong tooth restored' a critical error rather than just a Fail on any single criterion?",
+    "back": "A critical error automatically fails the entire procedure regardless of how well the actual restoration was executed, because it represents a patient safety or scope-of-practice breach rather than a quality deficiency."
+  },
+  {
+    "id": 73,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Why does 'foreign objects or materials remaining in the oral cavity' count as a critical error?",
+    "back": "Retained foreign material poses an immediate risk to the patient (aspiration, soft tissue injury, infection) and is treated as an automatic critical error independent of the restoration's quality."
+  },
+  {
+    "id": 74,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "If a Class II amalgam restoration is fractured or loose at evaluation, what grading outcome applies?",
+    "back": "It is a critical error, which fails the procedure outright regardless of how the margin, contours, morphology, and finish would otherwise have graded."
+  },
+  {
+    "id": 75,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "Compare the margin overhang threshold for Class II amalgam restoration to Class II composite resin restoration.",
+    "back": "Both share the same Margin / Proximal Contours / Occlusal Morphology and Function / Finish / Damage structure and the same 0.5mm margin threshold; composite restoration adds material-specific finish failures such as incomplete polymerization and contamination requiring replacement."
+  },
+  {
+    "id": 76,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "How does the amalgam restoration finish criterion differ from the composite resin restoration finish criterion?",
+    "back": "Amalgam finish is graded on smoothness, roughness, and non-margin voids only. Composite resin restoration finish adds incomplete polymerization as a Fail and grades surface contamination (Minimally Competent if correctable, Fail if it requires full replacement)."
+  },
+  {
+    "id": 77,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "A Class II amalgam has a proximal contact that a floss strand passes through with a light snap and moderate resistance. How is this graded?",
+    "back": "Competent, since an optimal proximal contact allows floss through with resistance rather than passing freely or being blocked entirely."
+  },
+  {
+    "id": 78,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "A Class II amalgam restoration is 0.7mm proud of the prep margin on the buccal surface. How is this graded?",
+    "back": "Fail, because any amalgam extending more than 0.5mm beyond the prep at the margin fails, and 0.7mm exceeds that 0.5mm threshold."
+  },
+  {
+    "id": 79,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "A Class II amalgam on tooth 3.6 shows occlusal contacts confirmed by articulating paper marks that are heavier than the adjacent natural teeth in the same quadrant, with no other quadrant contacts visible. How is this graded?",
+    "back": "Fail, since the restoration is supraocclusal with no light contacts remaining elsewhere in the quadrant, risking fracture or trauma rather than qualifying as the Minimally Competent supraocclusion allowance."
+  },
+  {
+    "id": 80,
+    "topic": "class_ii_amalgam_restoration",
+    "front": "A Class II amalgam restoration on tooth 4.6 has an undercontoured axial proximal surface measuring 0.6mm below the ideal contour, with no impact on gingival health. How is this graded?",
+    "back": "Minimally Competent, since it is an axial-surface-only under/overcontour of less than 1.0mm and does not negatively affect gingival health."
+  },
+  {
+    "id": 81,
+    "topic": "class_ii_composite_restoration",
+    "front": "What five criteria categories is the Class II composite resin restoration graded on?",
+    "back": "Margin, Proximal Contours, Occlusal Morphology and Function, Finish, and Damage, the same structure used for the Class II amalgam restoration."
+  },
+  {
+    "id": 82,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the Competent standard for the Margin criterion on a Class II composite restoration?",
+    "back": "The tooth-restoration junction is not detectable."
+  },
+  {
+    "id": 83,
+    "topic": "class_ii_composite_restoration",
+    "front": "What Margin finding is graded Minimally Competent on a Class II composite restoration?",
+    "back": "A deficiency correctable by enameloplasty, or composite extending no more than 0.5mm beyond the preparation."
+  },
+  {
+    "id": 84,
+    "topic": "class_ii_composite_restoration",
+    "front": "What Margin finding is a Fail on a Class II composite restoration?",
+    "back": "A deficiency or void requiring replacement, or composite extending more than 0.5mm beyond the preparation."
+  },
+  {
+    "id": 85,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the composite-specific Finish rule for polymerization on a Class II composite restoration?",
+    "back": "Incomplete polymerization is a Fail. There is no minimally competent tier for this item."
+  },
+  {
+    "id": 86,
+    "topic": "class_ii_composite_restoration",
+    "front": "How are internal or surface voids and porosities graded under Finish for a Class II composite restoration?",
+    "back": "Voids or porosities that compromise esthetics or durability are a Fail."
+  },
+  {
+    "id": 87,
+    "topic": "class_ii_composite_restoration",
+    "front": "How is contamination of the composite restoration graded under Finish?",
+    "back": "Contamination requiring correction is Minimally Competent. Contamination requiring full replacement of the restoration is a Fail."
+  },
+  {
+    "id": 88,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the Competent standard for Finish on a Class II composite restoration, aside from the composite-specific items?",
+    "back": "Optimal surface quality with a smooth, well-polished result and no contamination or voids."
+  },
+  {
+    "id": 89,
+    "topic": "class_ii_composite_restoration",
+    "front": "What roughness finding is Minimally Competent under Finish?",
+    "back": "Roughness correctable by polishing without impacting the restoration's contours."
+  },
+  {
+    "id": 90,
+    "topic": "class_ii_composite_restoration",
+    "front": "What roughness finding is a Fail under Finish?",
+    "back": "Roughness impacting the contours, which creates a plaque retention risk."
+  },
+  {
+    "id": 91,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the Competent standard for Proximal Contours on a Class II composite restoration?",
+    "back": "Physiologic contours are optimally restored with an optimal proximal contact."
+  },
+  {
+    "id": 92,
+    "topic": "class_ii_composite_restoration",
+    "front": "What proximal contour finding is Minimally Competent?",
+    "back": "Under- or overcontour of less than 1.0mm on the axial surface only, or a contact that is present but small, light, or not optimal."
+  },
+  {
+    "id": 93,
+    "topic": "class_ii_composite_restoration",
+    "front": "What two proximal contour findings are automatic Fails?",
+    "back": "Over- or undercontour negatively impacting gingival health, or an absent proximal contact where floss passes with no resistance or a contact that blocks floss entirely."
+  },
+  {
+    "id": 94,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the Competent standard for Occlusal Morphology and Function?",
+    "back": "Optimal occlusal contacts and morphology that approximate natural anatomy."
+  },
+  {
+    "id": 95,
+    "topic": "class_ii_composite_restoration",
+    "front": "What occlusal finding is Minimally Competent?",
+    "back": "Over- or undercontour that does not affect occlusal contacts, or supraocclusion with only light contacts elsewhere in the quadrant."
+  },
+  {
+    "id": 96,
+    "topic": "class_ii_composite_restoration",
+    "front": "What two occlusal findings are automatic Fails?",
+    "back": "Supraocclusion that risks fracture or trauma, or an undercontoured occlusal surface that is too thin and risks fracture."
+  },
+  {
+    "id": 97,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the Competent standard for Damage on a Class II composite restoration?",
+    "back": "No damage to the exam tooth beyond the restoration, to adjacent teeth, or to soft tissue."
+  },
+  {
+    "id": 98,
+    "topic": "class_ii_composite_restoration",
+    "front": "What damage findings are Minimally Competent?",
+    "back": "Damage correctable by enameloplasty, or minor soft tissue damage."
+  },
+  {
+    "id": 99,
+    "topic": "class_ii_composite_restoration",
+    "front": "What damage findings are automatic Fails?",
+    "back": "Damage requiring a restoration, excessive soft tissue damage, or tooth structure repaired with restorative material."
+  },
+  {
+    "id": 100,
+    "topic": "class_ii_composite_restoration",
+    "front": "List the Critical Errors for a Class II composite restoration.",
+    "back": "Any error preventing evaluation of the exam tooth, foreign objects or materials remaining in the oral cavity, no restoration placed, wrong tooth restored, inappropriate or incorrect material used, and a restoration that is fractured or loose."
+  },
+  {
+    "id": 101,
+    "topic": "class_ii_composite_restoration",
+    "front": "Is a fractured or loose composite restoration graded as a Fail criterion or a Critical Error?",
+    "back": "It is a Critical Error, meaning an automatic fail of the procedure regardless of the scores on other criteria."
+  },
+  {
+    "id": 102,
+    "topic": "class_ii_composite_restoration",
+    "front": "Why does incomplete polymerization carry no Minimally Competent tier, unlike most other Finish items?",
+    "back": "Incomplete polymerization means the composite has not fully hardened, so the material properties and clinical durability of the restoration cannot be considered adequate at any level, making it a straight Fail."
+  },
+  {
+    "id": 103,
+    "topic": "class_ii_composite_restoration",
+    "front": "Define incremental layering in the context of Class II composite placement.",
+    "back": "Placing and light-curing the composite in small increments, generally no more than about 2mm thick, rather than bulk-filling the cavity in one step."
+  },
+  {
+    "id": 104,
+    "topic": "class_ii_composite_restoration",
+    "front": "Why is incremental layering used for Class II composite restorations?",
+    "back": "It reduces the volume of material curing at once, which lowers polymerization shrinkage stress per increment and improves depth of cure and marginal adaptation."
+  },
+  {
+    "id": 105,
+    "topic": "class_ii_composite_restoration",
+    "front": "Define polymerization shrinkage.",
+    "back": "The volumetric contraction that composite resin undergoes as it hardens during light-curing, which can generate stress at the tooth-restoration interface."
+  },
+  {
+    "id": 106,
+    "topic": "class_ii_composite_restoration",
+    "front": "What clinical problems can excessive polymerization shrinkage stress cause?",
+    "back": "Marginal gap formation, microleakage, postoperative sensitivity, and cuspal flexure, all of which can contribute to a Margin or Finish deficiency."
+  },
+  {
+    "id": 107,
+    "topic": "class_ii_composite_restoration",
+    "front": "How does incremental layering help control polymerization shrinkage compared to a single bulk increment?",
+    "back": "Each smaller increment shrinks toward a smaller bonded surface area, reducing the configuration factor and resulting stress, and each increment is more fully cured before the next is added."
+  },
+  {
+    "id": 108,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is a matrix band used for in a Class II composite restoration?",
+    "back": "A thin metal or clear plastic strip placed around the tooth to form the missing proximal wall, allowing the composite to be contoured and contained during placement."
+  },
+  {
+    "id": 109,
+    "topic": "class_ii_composite_restoration",
+    "front": "Why might a clear matrix band be preferred over a metal band for an esthetic composite restoration?",
+    "back": "A clear band allows light transmission through the band, helping light-curing reach and polymerize composite near the proximal margin."
+  },
+  {
+    "id": 110,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is a wedge and why is it placed with the matrix band?",
+    "back": "A wedge is a small triangular device inserted interproximally at the gingival margin to adapt the matrix band tightly against the tooth, preventing an overhang and helping re-establish proximal contact."
+  },
+  {
+    "id": 111,
+    "topic": "class_ii_composite_restoration",
+    "front": "What Margin or Finish problem can result from an inadequately adapted matrix band or wedge?",
+    "back": "A composite overhang or void at the gingival margin, which can be graded as a Margin deficiency or, if severe, a Fail requiring replacement."
+  },
+  {
+    "id": 112,
+    "topic": "class_ii_composite_restoration",
+    "front": "What does isolation mean in the context of a Class II composite restoration?",
+    "back": "Keeping the prepared tooth free of saliva, blood, and other moisture contamination during bonding and composite placement, typically with a rubber dam or effective cotton roll and suction technique."
+  },
+  {
+    "id": 113,
+    "topic": "class_ii_composite_restoration",
+    "front": "Why is isolation especially critical for composite restorations compared to amalgam?",
+    "back": "Composite bonds adhesively to tooth structure, so moisture contamination during etching, bonding, or placement can compromise the bond and lead to a Finish contamination finding."
+  },
+  {
+    "id": 114,
+    "topic": "class_ii_composite_restoration",
+    "front": "If saliva contaminates the bonded surface partway through a Class II composite restoration, how would correcting it versus not correcting it be graded?",
+    "back": "If the contamination is corrected appropriately, it is graded Minimally Competent under Finish. If it requires full replacement of the restoration, it is a Fail."
+  },
+  {
+    "id": 115,
+    "topic": "class_ii_composite_restoration",
+    "front": "Define light-curing in the context of composite restoration.",
+    "back": "The process of applying a curing light of the appropriate wavelength and intensity to initiate and complete polymerization of a light-cured composite resin increment."
+  },
+  {
+    "id": 116,
+    "topic": "class_ii_composite_restoration",
+    "front": "Define depth of cure.",
+    "back": "The maximum thickness of a composite increment that a curing light can adequately polymerize, beyond which the composite deeper in the increment remains undercured."
+  },
+  {
+    "id": 117,
+    "topic": "class_ii_composite_restoration",
+    "front": "How does exceeding the depth of cure relate to the Finish grading for polymerization?",
+    "back": "Placing an increment thicker than the depth of cure can leave the deeper composite incompletely polymerized, which is graded as a Fail under Finish."
+  },
+  {
+    "id": 118,
+    "topic": "class_ii_composite_restoration",
+    "front": "Why should the curing light tip be held as close as possible to the composite surface during light-curing?",
+    "back": "Light intensity decreases with distance from the tip, so increasing the distance reduces the effective depth of cure and raises the risk of incomplete polymerization."
+  },
+  {
+    "id": 119,
+    "topic": "class_ii_composite_restoration",
+    "front": "What is the same across the Margin, Proximal Contours, Occlusal Morphology and Function, and Damage criteria for Class II composite versus Class II amalgam restorations?",
+    "back": "The grading tiers and thresholds for these four criteria are identical between the two restoration types; only the Finish criterion adds composite-specific items for polymerization, voids and porosities, and contamination."
+  },
+  {
+    "id": 120,
+    "topic": "class_ii_composite_restoration",
+    "front": "What are the Critical Errors shared between the Class II composite restoration and the Class II amalgam restoration?",
+    "back": "Any error preventing evaluation, foreign objects or materials remaining in the oral cavity, no restoration placed, wrong tooth restored, inappropriate or incorrect material used, and a restoration that is fractured or loose."
+  },
+  {
+    "id": 121,
+    "topic": "class_iv_composite_restoration",
+    "front": "What tooth is restored in the Class IV composite resin restoration procedure on Day 1 of the NDECC?",
+    "back": "An anterior tooth. Because it is in the esthetic zone, esthetics is explicitly assessed in the grading criteria, unlike the posterior Class II restorations."
+  },
+  {
+    "id": 122,
+    "topic": "class_iv_composite_restoration",
+    "front": "Which five criteria categories is the Class IV composite resin restoration graded on?",
+    "back": "Margin, Proximal Contours, Occlusion and Function, Finish, and Damage."
+  },
+  {
+    "id": 123,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the Competent standard for the Margin criterion on a Class IV composite restoration?",
+    "back": "The tooth-restoration junction is not detectable, meaning the composite blends seamlessly with the surrounding tooth structure at the margin."
+  },
+  {
+    "id": 124,
+    "topic": "class_iv_composite_restoration",
+    "front": "What makes a Class IV margin Minimally Competent?",
+    "back": "A deficiency that is correctable by enameloplasty, or composite extending no more than 0.5mm beyond the preparation."
+  },
+  {
+    "id": 125,
+    "topic": "class_iv_composite_restoration",
+    "front": "What makes a Class IV margin a Fail?",
+    "back": "A deficiency or void requiring replacement, or composite extending more than 0.5mm beyond the preparation."
+  },
+  {
+    "id": 126,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the Competent standard for Proximal Contours on a Class IV composite restoration?",
+    "back": "Physiologic contours are optimally restored with an optimal proximal contact."
+  },
+  {
+    "id": 127,
+    "topic": "class_iv_composite_restoration",
+    "front": "How does the Minimally Competent standard for Proximal Contours differ between Class II and Class IV restorations?",
+    "back": "Class II allows an undercontour or overcontour under 1.0mm on the axial surface only. Class IV instead requires the contour not reproduce natural anatomical contour but must NOT impact gingival health or esthetics, reflecting the anterior esthetic zone."
+  },
+  {
+    "id": 128,
+    "topic": "class_iv_composite_restoration",
+    "front": "What makes Proximal Contours a Fail on a Class IV composite restoration?",
+    "back": "Over or undercontour negatively impacting gingival health OR esthetics, or an absent proximal contact where floss passes with no resistance, or a contact that blocks floss entirely."
+  },
+  {
+    "id": 129,
+    "topic": "class_iv_composite_restoration",
+    "front": "Why does the Class IV Proximal Contours fail criterion explicitly include esthetics while Class II does not?",
+    "back": "Class IV restores an anterior tooth in the esthetic zone, so a contour flaw that harms appearance is graded as a fail even if gingival health is unaffected, unlike the posterior Class II restoration."
+  },
+  {
+    "id": 130,
+    "topic": "class_iv_composite_restoration",
+    "front": "What esthetic-specific fail language applies to the incisal edge on a Class IV composite restoration?",
+    "back": "Incisal edge disharmony negatively impacting esthetics is listed as a Fail."
+  },
+  {
+    "id": 131,
+    "topic": "class_iv_composite_restoration",
+    "front": "What does incisal edge disharmony mean in the context of a Class IV restoration?",
+    "back": "A mismatch in the shape, length, or alignment of the restored incisal edge relative to the natural tooth or adjacent teeth that disrupts the appearance of the smile."
+  },
+  {
+    "id": 132,
+    "topic": "class_iv_composite_restoration",
+    "front": "What esthetic-specific fail language applies to the labial or lingual surface on a Class IV composite restoration?",
+    "back": "Overcontour or undercontour of the labial or lingual surface not reproducing natural anatomical contour, negatively impacting esthetics or function, is listed as a Fail."
+  },
+  {
+    "id": 133,
+    "topic": "class_iv_composite_restoration",
+    "front": "Which surface faces the lips on an anterior tooth restored with a Class IV composite?",
+    "back": "The labial surface."
+  },
+  {
+    "id": 134,
+    "topic": "class_iv_composite_restoration",
+    "front": "Which surface faces the tongue on an anterior tooth restored with a Class IV composite?",
+    "back": "The lingual surface."
+  },
+  {
+    "id": 135,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the Competent standard for Occlusion and Function on a Class IV composite restoration?",
+    "back": "Optimal occlusal contacts and morphology approximating natural anatomy, consistent with the Class II occlusal standard applied to the anterior restoration's function."
+  },
+  {
+    "id": 136,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is a Fail for Finish on a Class IV composite restoration related to polymerization?",
+    "back": "Incomplete polymerization is a Fail, the same composite-specific finish standard used for Class II composite restorations."
+  },
+  {
+    "id": 137,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the Fail standard for voids or porosities in the Finish criterion of a Class IV composite restoration?",
+    "back": "Internal or surface voids or porosities compromising esthetics or durability are a Fail."
+  },
+  {
+    "id": 138,
+    "topic": "class_iv_composite_restoration",
+    "front": "How is contamination graded under Finish for a Class IV composite restoration?",
+    "back": "Contamination requiring correction is Minimally Competent. Contamination requiring full replacement of the restoration is a Fail."
+  },
+  {
+    "id": 139,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the Competent standard for Damage on a Class IV composite restoration?",
+    "back": "No damage to the exam tooth beyond the preparation, to adjacent teeth, or to soft tissue."
+  },
+  {
+    "id": 140,
+    "topic": "class_iv_composite_restoration",
+    "front": "What Damage findings are Minimally Competent on a Class IV composite restoration?",
+    "back": "Damage correctable by enameloplasty, or minor soft tissue damage."
+  },
+  {
+    "id": 141,
+    "topic": "class_iv_composite_restoration",
+    "front": "What Damage findings are a Fail on a Class IV composite restoration?",
+    "back": "Damage requiring a restoration, excessive soft tissue damage, or tooth structure repaired with restorative material."
+  },
+  {
+    "id": 142,
+    "topic": "class_iv_composite_restoration",
+    "front": "What are the Critical Errors for the Class IV composite resin restoration procedure?",
+    "back": "Same as the other restoration procedures: any error preventing evaluation of the exam tooth, foreign objects or materials remaining in the oral cavity, no restoration placed, wrong tooth restored, inappropriate or incorrect material used, or restoration fractured or loose."
+  },
+  {
+    "id": 143,
+    "topic": "class_iv_composite_restoration",
+    "front": "Does a Critical Error on a Class IV composite restoration allow partial credit?",
+    "back": "No. Any Critical Error is an automatic fail for the procedure with no partial credit, the same rule that applies across all seven Day 1 clinical procedures."
+  },
+  {
+    "id": 144,
+    "topic": "class_iv_composite_restoration",
+    "front": "What does shade selection mean when preparing a Class IV composite restoration?",
+    "back": "Choosing the composite resin colour, or combination of colours, that matches the surrounding natural tooth structure so the restoration blends in rather than appearing as a visible patch."
+  },
+  {
+    "id": 145,
+    "topic": "class_iv_composite_restoration",
+    "front": "Why is shade selection especially important for a Class IV restoration but not graded for a Class II restoration on the NDECC?",
+    "back": "The Class IV restoration is on an anterior tooth in the esthetic zone where a visible colour mismatch is immediately noticeable, while the Class II restoration is on a posterior tooth where colour match matters less to visible esthetics."
+  },
+  {
+    "id": 146,
+    "topic": "class_iv_composite_restoration",
+    "front": "What does translucency mean in the context of composite resin used for a Class IV restoration?",
+    "back": "The degree to which light passes through the material rather than being fully opaque or fully reflected, mimicking how natural enamel allows light to pass and gives teeth their lifelike depth."
+  },
+  {
+    "id": 147,
+    "topic": "class_iv_composite_restoration",
+    "front": "Why does matching translucency matter for a Class IV composite restoration's esthetic outcome?",
+    "back": "Natural enamel is translucent at the incisal edge while dentine underneath is more opaque. A restoration with the wrong translucency looks flat, chalky, or too dark under different lighting compared to the surrounding natural tooth."
+  },
+  {
+    "id": 148,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is a line angle on a tooth being restored with Class IV composite?",
+    "back": "The junction line formed where two flat or curved tooth surfaces meet, such as where the labial surface meets the mesial or distal surface."
+  },
+  {
+    "id": 149,
+    "topic": "class_iv_composite_restoration",
+    "front": "Why do line angles matter to the esthetic grading of a Class IV composite restoration?",
+    "back": "Natural anterior teeth have subtle, rounded line angles. Overcontouring or undercontouring the labial or lingual surface disrupts these line angles, which is graded as a Fail when it negatively impacts esthetics or function."
+  },
+  {
+    "id": 150,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is the incisal edge of an anterior tooth restored with Class IV composite?",
+    "back": "The biting edge of an anterior tooth, formed where the labial and lingual surfaces converge at the tip of the tooth."
+  },
+  {
+    "id": 151,
+    "topic": "class_iv_composite_restoration",
+    "front": "What specific incisal edge finding is listed as a Fail for the Class IV composite restoration?",
+    "back": "Incisal edge disharmony negatively impacting esthetics, meaning the restored incisal edge does not match the natural tooth's or adjacent teeth's incisal outline in a way that disrupts appearance."
+  },
+  {
+    "id": 152,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is meant by the esthetic zone in restorative dentistry, as it applies to the Class IV composite restoration?",
+    "back": "The visible region of the smile, typically the anterior teeth, where appearance is a primary concern, unlike posterior teeth where function dominates over visible esthetics."
+  },
+  {
+    "id": 153,
+    "topic": "class_iv_composite_restoration",
+    "front": "How does grading in the esthetic zone change the Fail threshold for proximal contours compared to a posterior restoration?",
+    "back": "In the esthetic zone, a contour that fails to reproduce natural anatomical form is a Fail if it negatively impacts esthetics alone, even without harming gingival health, unlike a posterior Class II restoration where only gingival health impact is named."
+  },
+  {
+    "id": 154,
+    "topic": "class_iv_composite_restoration",
+    "front": "What is layering technique in composite resin restoration?",
+    "back": "Placing and curing the composite resin in successive thin increments, often using different shades or opacities for the dentine and enamel layers, rather than in a single bulk placement."
+  },
+  {
+    "id": 155,
+    "topic": "class_iv_composite_restoration",
+    "front": "Why is layering technique particularly relevant to a Class IV composite restoration?",
+    "back": "Because it is an anterior restoration in the esthetic zone, layering allows the candidate to replicate natural tooth structure with a more opaque dentine layer covered by a translucent enamel layer, improving both esthetics and the chance of complete polymerization throughout the restoration."
+  },
+  {
+    "id": 156,
+    "topic": "class_iv_composite_restoration",
+    "front": "What Class IV Finish criterion connects most directly to a poorly executed layering technique?",
+    "back": "Internal or surface voids or porosities compromising esthetics or durability, which is a Fail and can result from air entrapment or incomplete bonding between layers."
+  },
+  {
+    "id": 157,
+    "topic": "class_iv_composite_restoration",
+    "front": "Which criterion category on the Class IV composite restoration would grade an open or overly tight proximal contact with an adjacent anterior tooth?",
+    "back": "Proximal Contours. An absent contact where floss passes with no resistance, or a contact that blocks floss entirely, is a Fail."
+  },
+  {
+    "id": 158,
+    "topic": "class_iv_composite_restoration",
+    "front": "Under the Class IV composite restoration grading table, is a small, light, or not-optimal proximal contact a Fail?",
+    "back": "No. A contact present but small, light, or not optimal is Minimally Competent, not a Fail, matching the standard used for the other restoration procedures."
+  },
+  {
+    "id": 159,
+    "topic": "class_iv_composite_restoration",
+    "front": "If a labial surface overcontour negatively impacts function but not esthetics, how is it graded on a Class IV composite restoration?",
+    "back": "It is still a Fail. The criterion reads negatively impacting esthetics OR function, so either negative impact alone is enough to fail that surface's contour."
+  },
+  {
+    "id": 160,
+    "topic": "class_iv_composite_restoration",
+    "front": "Besides Margin, Proximal Contours, Occlusion and Function, Finish, and Damage, what other assessment applies throughout Day 1 during a Class IV composite restoration?",
+    "back": "Infection Control and Safety, IC&S, which permits a maximum of three errors across the whole day, with a fourth error being an automatic fail regardless of the restoration's own grading."
+  },
+  {
+    "id": 161,
+    "topic": "endo_access_prep",
+    "front": "On NDECC Day 1, which criteria categories is the endodontic access cavity preparation graded against?",
+    "back": "It is one of 7 manikin procedures graded Pass/Fail with no partial credit, assessed on External Outline Form, Internal Form, Finish, and Damage, plus a separate list of Critical Errors."
+  },
+  {
+    "id": 162,
+    "topic": "endo_access_prep",
+    "front": "What are the four criteria categories for grading endodontic access cavity preparation?",
+    "back": "External Outline Form, Internal Form, Finish, and Damage."
+  },
+  {
+    "id": 163,
+    "topic": "endo_access_prep",
+    "front": "List the Critical Errors that cause an automatic fail on the endodontic access preparation, regardless of other scores.",
+    "back": "Any error preventing evaluation of the exam tooth, no preparation performed on the assigned tooth, and access initiated on the wrong tooth."
+  },
+  {
+    "id": 164,
+    "topic": "endo_access_prep",
+    "front": "If a candidate initiates the access cavity on the wrong tooth, is this correctable through the other criteria?",
+    "back": "No. Access initiated on the wrong tooth is a named Critical Error, an automatic fail regardless of how well the preparation is otherwise executed."
+  },
+  {
+    "id": 165,
+    "topic": "endo_access_prep",
+    "front": "Define straight-line access in the context of endodontic access cavity preparation.",
+    "back": "An outline and internal form that lets an instrument travel from the access opening directly into each canal orifice without deflection, avoiding obstruction from chamber walls, pulp horns, or the chamber roof."
+  },
+  {
+    "id": 166,
+    "topic": "endo_access_prep",
+    "front": "What does Competent External Outline Form require regarding straight-line access?",
+    "back": "Optimal extension of the outline for straight-line access to all canals, optimal removal of unsupported tooth structure, and complete removal of the pulp horns."
+  },
+  {
+    "id": 167,
+    "topic": "endo_access_prep",
+    "front": "What is Minimally Competent External Outline Form?",
+    "back": "The outline still allows access to all canals, or there is overextension that does not compromise structural integrity of the tooth."
+  },
+  {
+    "id": 168,
+    "topic": "endo_access_prep",
+    "front": "What three findings make External Outline Form a Fail?",
+    "back": "Pulp chamber not accessed, outline prevents access to any canal, or overextension beyond a cusp or marginal ridge."
+  },
+  {
+    "id": 169,
+    "topic": "endo_access_prep",
+    "front": "A candidate finishes the access cavity but the pulp chamber was never actually entered. What grade does External Outline Form receive?",
+    "back": "Fail. Pulp chamber not accessed is one of the three named Fail criteria for External Outline Form."
+  },
+  {
+    "id": 170,
+    "topic": "endo_access_prep",
+    "front": "The outline extends slightly beyond the marginal ridge but the candidate believes the tooth's structural integrity is intact. Is this Fail or Minimally Competent?",
+    "back": "Minimally Competent, provided the overextension truly does not compromise structural integrity. Overextension actually beyond a cusp or marginal ridge is Fail; the two tiers are separated by whether structural integrity is compromised."
+  },
+  {
+    "id": 171,
+    "topic": "endo_access_prep",
+    "front": "What are pulp horns and why must they be removed during access preparation?",
+    "back": "Pulp horns are the coronal projections of pulp tissue extending into the cusps beneath the pulp chamber roof. Leaving them unremoved obstructs straight-line access and separates Competent from Minimally Competent External Outline Form."
+  },
+  {
+    "id": 172,
+    "topic": "endo_access_prep",
+    "front": "To what depth must a canal be accessed for Competent Internal Form?",
+    "back": "Canals accessed to a depth of 2.0mm."
+  },
+  {
+    "id": 173,
+    "topic": "endo_access_prep",
+    "front": "What canal access depth defines Minimally Competent Internal Form?",
+    "back": "Canals accessed to a depth of less than 2.0mm, with pulp horns and the pulp chamber roof removed and no perforation."
+  },
+  {
+    "id": 174,
+    "topic": "endo_access_prep",
+    "front": "What three findings make Internal Form a Fail on the endodontic access preparation?",
+    "back": "Major obstruction to a canal, unnecessary removal of tooth structure that alters the restorative treatment plan, or perforation."
+  },
+  {
+    "id": 175,
+    "topic": "endo_access_prep",
+    "front": "A candidate accesses a canal to only 1.0mm depth with no perforation and no obstruction. What is the Internal Form grade?",
+    "back": "Minimally Competent. The depth is less than 2.0mm but there is no perforation and no major obstruction, so it does not fall to Fail."
+  },
+  {
+    "id": 176,
+    "topic": "endo_access_prep",
+    "front": "Define perforation as it relates to endodontic access preparation grading.",
+    "back": "An unintended hole created through the floor or wall of the pulp chamber or a canal wall during access preparation, connecting the chamber or canal to the periodontal tissues or external tooth surface. It is a named Fail criterion under Internal Form."
+  },
+  {
+    "id": 177,
+    "topic": "endo_access_prep",
+    "front": "Is minimal gouging of the chamber wall automatically a Fail?",
+    "back": "No. Minimal gouging is Minimally Competent as long as it does not impact the structural integrity of the tooth; gouging that compromises structural integrity or represents a major obstruction is Fail."
+  },
+  {
+    "id": 178,
+    "topic": "endo_access_prep",
+    "front": "What does Competent Finish require for the endodontic access preparation?",
+    "back": "Optimal smoothness of the preparation with no pulp material remaining on the walls or floor of the chamber."
+  },
+  {
+    "id": 179,
+    "topic": "endo_access_prep",
+    "front": "What is Minimally Competent Finish for the access cavity?",
+    "back": "Roughness that is correctable without impacting structural integrity, or minimal pulp material or debris remaining that still allows canal access."
+  },
+  {
+    "id": 180,
+    "topic": "endo_access_prep",
+    "front": "List the three Fail conditions under Finish for endodontic access preparation.",
+    "back": "Roughness that would negatively impact structural integrity if corrected, tooth structure rebuilt with restorative material, or excessive pulp material or debris obstructing the chamber or canal."
+  },
+  {
+    "id": 181,
+    "topic": "endo_access_prep",
+    "front": "If debris remains in the chamber but a canal orifice can still be located and entered, what is the Finish grade?",
+    "back": "Minimally Competent, since minimal pulp material or debris that still allows canal access does not fail the criterion; it becomes Fail only when debris is excessive enough to obstruct the chamber or canal."
+  },
+  {
+    "id": 182,
+    "topic": "endo_access_prep",
+    "front": "What does Competent Damage mean for the endodontic access preparation?",
+    "back": "No damage to the exam tooth beyond the intended preparation, no damage to adjacent teeth, and no damage to soft tissue."
+  },
+  {
+    "id": 183,
+    "topic": "endo_access_prep",
+    "front": "What is Minimally Competent Damage for this procedure?",
+    "back": "Damage correctable by enameloplasty, or minor soft tissue damage."
+  },
+  {
+    "id": 184,
+    "topic": "endo_access_prep",
+    "front": "List the Fail conditions under Damage for endodontic access preparation.",
+    "back": "Damage that alters the restorative treatment plan, damage requiring a restoration, excessive soft tissue damage, or the tooth repaired with restorative material."
+  },
+  {
+    "id": 185,
+    "topic": "endo_access_prep",
+    "front": "A candidate accidentally nicks an adjacent tooth during access preparation but the nick can be smoothed by enameloplasty. What Damage grade results?",
+    "back": "Minimally Competent, since damage correctable by enameloplasty does not fall to Fail; Fail requires damage that alters the treatment plan or requires an actual restoration."
+  },
+  {
+    "id": 186,
+    "topic": "endo_access_prep",
+    "front": "How many named Critical Errors apply specifically to endodontic access preparation grading?",
+    "back": "Three: any error preventing evaluation of the exam tooth, no preparation performed on the assigned tooth, and access initiated on the wrong tooth."
+  },
+  {
+    "id": 187,
+    "topic": "endo_access_prep",
+    "front": "What instrument is classically used to locate canal orifices during access preparation, and what is distinctive about its tip?",
+    "back": "The DG16 endodontic explorer, which has a sharp, rigid, sickle-shaped double-ended tip designed to catch and drop into the subtle depression of a canal orifice on the pulp chamber floor."
+  },
+  {
+    "id": 188,
+    "topic": "endo_access_prep",
+    "front": "Define the pulp chamber roof.",
+    "back": "The coronal-most wall of the pulp chamber, located beneath the occlusal or incisal surface, which must be fully removed to expose the pulp horns and floor and permit straight-line access."
+  },
+  {
+    "id": 189,
+    "topic": "endo_access_prep",
+    "front": "Define canal orifice.",
+    "back": "The opening on the floor of the pulp chamber where a root canal begins, typically located by tactile feel with a sharp explorer such as the DG16 and visually as a dark or lined depression against the chamber floor."
+  },
+  {
+    "id": 190,
+    "topic": "endo_access_prep",
+    "front": "Why is complete removal of the pulp chamber roof necessary for Competent grading, beyond simply improving visibility?",
+    "back": "An unremoved roof or remaining pulp horn tissue physically blocks the straight path from the access opening into the canal, which is exactly what Competent External Outline Form and Internal Form require."
+  },
+  {
+    "id": 191,
+    "topic": "endo_access_prep",
+    "front": "What outline shape is used for the access cavity on a maxillary or mandibular anterior tooth such as tooth 1.1 or tooth 4.1?",
+    "back": "A triangular outline on the lingual surface, with the base near the cingulum and the apex toward the incisal edge, following the single pulp horn arrangement of the pulp chamber."
+  },
+  {
+    "id": 192,
+    "topic": "endo_access_prep",
+    "front": "What outline shape is typical for the access cavity on a maxillary premolar such as tooth 1.4?",
+    "back": "An oval outline in the central fossa area, oriented buccolingually to reflect the two canal orifices, buccal and palatal, typically present."
+  },
+  {
+    "id": 193,
+    "topic": "endo_access_prep",
+    "front": "What outline shape is typical for the access cavity on a maxillary molar such as tooth 1.6?",
+    "back": "A triangular outline over the mesial marginal ridge area of the occlusal surface, positioned to reach the mesiobuccal, distobuccal, and palatal canal orifices."
+  },
+  {
+    "id": 194,
+    "topic": "endo_access_prep",
+    "front": "What outline shape is typical for the access cavity on a mandibular molar such as tooth 3.6?",
+    "back": "A rectangular or trapezoidal outline over the mesial two-thirds of the occlusal surface, reaching the mesial and distal canal orifices."
+  },
+  {
+    "id": 195,
+    "topic": "endo_access_prep",
+    "front": "Why does outline form differ by tooth type even though the same four grading criteria apply to every tooth?",
+    "back": "The number and position of root canals differ by tooth type, so the outline shape must be adapted to that root morphology while still achieving optimal straight-line access, complete pulp horn removal, and no overextension beyond a cusp or marginal ridge."
+  },
+  {
+    "id": 196,
+    "topic": "endo_access_prep",
+    "front": "A candidate overextends the access outline beyond a cusp on a molar. Which criterion category grades this, and at what tier?",
+    "back": "External Outline Form, and it is graded Fail; overextension beyond a cusp or marginal ridge is a named Fail condition."
+  },
+  {
+    "id": 197,
+    "topic": "endo_access_prep",
+    "front": "During access preparation the candidate perforates the pulp chamber floor. Which criterion category is affected and what is the outcome?",
+    "back": "Internal Form is graded Fail; perforation is one of the three named Fail conditions for Internal Form on this procedure."
+  },
+  {
+    "id": 198,
+    "topic": "endo_access_prep",
+    "front": "Contrast the canal access depth thresholds for Competent versus Minimally Competent Internal Form.",
+    "back": "Competent requires canals accessed to a full depth of 2.0mm; Minimally Competent allows canals accessed to a depth of less than 2.0mm, provided pulp horns and roof are removed with no perforation."
+  },
+  {
+    "id": 199,
+    "topic": "endo_access_prep",
+    "front": "Under IC&S, how many total errors are permitted across the entire Day 1 exam, including during the endodontic access procedure?",
+    "back": "A maximum of 3 errors are permitted across the whole day; a 4th Infection Control and Safety error is an automatic fail of the entire Day 1 clinical skills component."
+  },
+  {
+    "id": 200,
+    "topic": "endo_access_prep",
+    "front": "Summarize the single overarching goal that External Outline Form and Internal Form are both grading for on the endodontic access preparation.",
+    "back": "Achieving true straight-line access to every canal, meaning an unobstructed path from the access opening through a fully deroofed chamber with pulp horns removed, down to each canal orifice, without perforation or damaging overextension."
+  },
+  {
+    "id": 201,
+    "topic": "crown_prep",
+    "front": "In the NDECC crown preparation criterion, in what jaw position is all clearance checked?",
+    "back": "Clearance is checked in maximum intercuspation, meaning the opposing teeth are fully closed together in their habitual bite when the examiner assesses reduction and clearance."
+  },
+  {
+    "id": 202,
+    "topic": "crown_prep",
+    "front": "What is the Competent (optimal) margin position for a crown preparation margin relative to the gingiva?",
+    "back": "The margin is optimally positioned 0.5mm supragingival, meaning it sits half a millimetre coronal to (above) the free gingival margin."
+  },
+  {
+    "id": 203,
+    "topic": "crown_prep",
+    "front": "What margin position range is Minimally Competent on the supragingival side?",
+    "back": "A margin positioned supragingival at >=0.0mm and <2.0mm is Minimally Competent, a wider but still acceptable band above the gingiva than the 0.5mm optimal target."
+  },
+  {
+    "id": 204,
+    "topic": "crown_prep",
+    "front": "At what supragingival margin position does the crown preparation Fail?",
+    "back": "A margin located supragingival at >=2.0mm fails, since a margin that far above the gingiva is considered too high and unacceptable."
+  },
+  {
+    "id": 205,
+    "topic": "crown_prep",
+    "front": "What subgingival margin position is Minimally Competent, and what is Fail?",
+    "back": "A margin positioned subgingival at <1.0mm is Minimally Competent. A margin positioned subgingival at >=1.0mm is a Fail, since burying the margin that deep below the gingiva is unacceptable."
+  },
+  {
+    "id": 206,
+    "topic": "crown_prep",
+    "front": "What is the Fail threshold for excessive axial reduction at the margin?",
+    "back": "Excessive axial reduction at the margin greater than 2.0mm is a Fail, since removing that much tooth structure at the margin is considered destructive over-reduction."
+  },
+  {
+    "id": 207,
+    "topic": "crown_prep",
+    "front": "What are the two Fail thresholds for insufficient axial reduction at the margin, by surface?",
+    "back": "Insufficient axial reduction is a Fail when the facial surface reduction is less than 0.5mm, or when the lingual surface reduction is less than 0.3mm."
+  },
+  {
+    "id": 208,
+    "topic": "crown_prep",
+    "front": "Why does the facial surface have a stricter minimum axial reduction threshold (0.5mm) than the lingual surface (0.3mm) in the NDECC margin criterion?",
+    "back": "The facial minimum is 0.5mm while the lingual minimum is 0.3mm, reflecting that the facial surface generally needs more material clearance for esthetic restorative material thickness than the lingual surface."
+  },
+  {
+    "id": 209,
+    "topic": "crown_prep",
+    "front": "What Minimally Competent tolerance exists for axial reduction at the margin measured on the facial surface?",
+    "back": "Axial reduction at the margin within 0.5mm of the required amount on the facial surface is Minimally Competent, allowing a small deviation from the ideal facial reduction before it fails."
+  },
+  {
+    "id": 210,
+    "topic": "crown_prep",
+    "front": "What does 'path of draw' mean in a crown preparation?",
+    "back": "Path of draw is the single line of insertion and removal along which a rigid crown restoration can seat onto and be lifted off the prepared tooth without binding on any surface."
+  },
+  {
+    "id": 211,
+    "topic": "crown_prep",
+    "front": "What is the Competent standard for path of draw on the NDECC crown prep criterion?",
+    "back": "Competent path of draw shows optimal retention, no undercuts, and allows the restoration to be removed and inserted freely along one consistent path."
+  },
+  {
+    "id": 212,
+    "topic": "crown_prep",
+    "front": "What makes a path of draw problem a Fail rather than Minimally Competent?",
+    "back": "It fails when the path of draw actually prevents removal or insertion of the restoration, when excessive convergence compromises retention, or when an undercut requires modification of the prep to correct it."
+  },
+  {
+    "id": 213,
+    "topic": "crown_prep",
+    "front": "What undercut condition is Minimally Competent rather than a Fail for path of draw?",
+    "back": "An undercut that can be blocked out with spacer material without any clinical modification of the tooth preparation is Minimally Competent, since it does not require re-cutting the prep."
+  },
+  {
+    "id": 214,
+    "topic": "crown_prep",
+    "front": "Define 'undercut' in the context of crown preparation.",
+    "back": "An undercut is any area of the axial wall angled so that it is wider apically (near the gingiva) than occlusally, creating a surface that blocks a rigid crown from seating along a single path of draw."
+  },
+  {
+    "id": 215,
+    "topic": "crown_prep",
+    "front": "Define 'taper' (axial convergence) as it applies to crown preparation walls.",
+    "back": "Taper, or axial convergence, is the inward angle of the opposing axial walls from gingival to occlusal; a small taper toward the occlusal creates retention while walls that are too parallel or too convergent affect fit and retention."
+  },
+  {
+    "id": 216,
+    "topic": "crown_prep",
+    "front": "What is Minimally Competent regarding axial wall taper in the path of draw criterion?",
+    "back": "Excessive axial convergence that does not compromise retention is Minimally Competent, as is a set of parallel axial walls that still allows a provisional restoration to be seated and removed."
+  },
+  {
+    "id": 217,
+    "topic": "crown_prep",
+    "front": "Define 'axial reduction' in crown preparation.",
+    "back": "Axial reduction is the removal of tooth structure from the vertical (axial) walls of the tooth, done in the amount specified for the restoration material to create room for it while preserving retention form."
+  },
+  {
+    "id": 218,
+    "topic": "crown_prep",
+    "front": "Define 'occlusal reduction' in crown preparation.",
+    "back": "Occlusal reduction is the removal of tooth structure from the biting (occlusal or incisal) surface to create adequate thickness of space for the restorative material without interfering with the opposing dentition."
+  },
+  {
+    "id": 219,
+    "topic": "crown_prep",
+    "front": "What criterion covers occlusal or incisal reduction amount on the NDECC crown prep grading table?",
+    "back": "It falls under Preservation of Tooth Vitality and Structural Durability, where Competent is optimal reduction for the specified restoration and Fail includes insufficient reduction preventing fabrication or reduction negatively impacting the occlusal plane."
+  },
+  {
+    "id": 220,
+    "topic": "crown_prep",
+    "front": "What is a Fail for under-reduction under Preservation of Tooth Vitality and Structural Durability?",
+    "back": "Insufficient reduction that prevents fabrication of the restoration is a Fail, as is any incisal or occlusal reduction that negatively impacts the occlusal plane."
+  },
+  {
+    "id": 221,
+    "topic": "crown_prep",
+    "front": "What is a Fail for over-reduction under Preservation of Tooth Vitality and Structural Durability?",
+    "back": "Reduction that compromises the vitality of the tooth or the structural integrity of the remaining tooth is a Fail, since removing too much dentin risks pulp exposure or a weakened tooth."
+  },
+  {
+    "id": 222,
+    "topic": "crown_prep",
+    "front": "What is Minimally Competent for over-reduction and under-reduction on this criterion?",
+    "back": "Over-reduction that does not impact vitality or structural integrity is Minimally Competent, and under-reduction that does not impact occlusion, contour, or structural integrity is also Minimally Competent."
+  },
+  {
+    "id": 223,
+    "topic": "crown_prep",
+    "front": "Define 'finish line' in crown preparation and how it relates to 'margin'.",
+    "back": "The finish line is the terminal border of the tooth preparation where the prepared tooth surface meets the unprepared tooth or the future restoration edge; it is the same line referred to as the margin when discussing the crown's fit and position."
+  },
+  {
+    "id": 224,
+    "topic": "crown_prep",
+    "front": "Define 'margin design' as assessed in crown preparation.",
+    "back": "Margin design is the cross-sectional shape cut at the finish line (for example chamfer, shoulder, or knife-edge) chosen to match the restorative material's strength and esthetic requirements at that location."
+  },
+  {
+    "id": 225,
+    "topic": "crown_prep",
+    "front": "What happens on the Margin criterion if the wrong margin design is cut for the specified restoration?",
+    "back": "An incorrect margin design is a Fail, since a mismatched finish-line shape cannot properly support the specified restorative material at the margin."
+  },
+  {
+    "id": 226,
+    "topic": "crown_prep",
+    "front": "What margin continuity issue is a Fail versus Minimally Competent?",
+    "back": "A discontinuous or nondiscernible margin is a Fail, while a margin that is continuous but has a minor irregularity is Minimally Competent."
+  },
+  {
+    "id": 227,
+    "topic": "crown_prep",
+    "front": "What is the Competent standard on the Margin criterion overall?",
+    "back": "Competent means the margin is optimally defined, positioned 0.5mm supragingival, has axial reduction matching the specified restoration, and uses the correct margin design."
+  },
+  {
+    "id": 228,
+    "topic": "crown_prep",
+    "front": "What are the categories graded on the NDECC crown preparation procedure?",
+    "back": "Crown preparation is graded on Path of Draw, Preservation of Tooth Vitality and Structural Durability, Margin, Finish, and Damage."
+  },
+  {
+    "id": 229,
+    "topic": "crown_prep",
+    "front": "What is the Competent standard for the Finish criterion in crown preparation?",
+    "back": "Competent finish means smooth prepared surfaces overall, with no sharp line angles or cusps and no unsupported enamel."
+  },
+  {
+    "id": 230,
+    "topic": "crown_prep",
+    "front": "What sharp line angle or cusp finding is Minimally Competent versus Fail?",
+    "back": "A sharp line angle or cusp that does not compromise structural integrity is Minimally Competent; a sharp line angle or cusp that does compromise integrity is a Fail."
+  },
+  {
+    "id": 231,
+    "topic": "crown_prep",
+    "front": "What roughness finding is Minimally Competent on the Finish criterion?",
+    "back": "Roughness that does not impact fabrication of the restoration or its retention is Minimally Competent, as is unsupported enamel that does not compromise marginal integrity."
+  },
+  {
+    "id": 232,
+    "topic": "crown_prep",
+    "front": "What Finish findings are automatic Fails?",
+    "back": "A sharp line angle or cusp that compromises structural integrity, unsupported enamel that compromises marginal integrity, and tooth structure rebuilt with restorative material are all Fails on the Finish criterion."
+  },
+  {
+    "id": 233,
+    "topic": "crown_prep",
+    "front": "What is the Damage criterion pattern for crown preparation, and how does it compare across procedures?",
+    "back": "Damage follows the same pattern used across all Day 1 procedures: damage correctable by enameloplasty is Minimally Competent, while damage requiring a restoration is a Fail."
+  },
+  {
+    "id": 234,
+    "topic": "crown_prep",
+    "front": "What are the Critical Errors for crown preparation, and what do Critical Errors mean overall?",
+    "back": "The Critical Errors for crown preparation are anything that prevents evaluation of the exam tooth, or no preparation performed at all; any Critical Error is an automatic Fail of the procedure regardless of other criteria scores."
+  },
+  {
+    "id": 235,
+    "topic": "crown_prep",
+    "front": "Why is the same tooth prep used for the Provisional Crown Restoration procedure on the NDECC?",
+    "back": "The provisional crown restoration procedure is fabricated on the candidate's own crown preparation, so a poor path of draw, wrong margin position, or missing retention form on the prep can directly cause the provisional to fit, seat, or retain poorly."
+  },
+  {
+    "id": 236,
+    "topic": "crown_prep",
+    "front": "A crown margin is measured at 1.5mm supragingival. Which tier does this fall into?",
+    "back": "Minimally Competent, since supragingival margin position from >=0.0mm to <2.0mm is Minimally Competent; only >=2.0mm supragingival is a Fail."
+  },
+  {
+    "id": 237,
+    "topic": "crown_prep",
+    "front": "A crown margin is measured at 1.2mm subgingival. Which tier does this fall into?",
+    "back": "Fail, since subgingival margin position >=1.0mm is a Fail; only subgingival positions less than 1.0mm are Minimally Competent."
+  },
+  {
+    "id": 238,
+    "topic": "crown_prep",
+    "front": "Facial axial reduction at the margin measures 0.4mm. Which tier does this fall into?",
+    "back": "Fail, since insufficient axial reduction at the margin is defined as facial reduction less than 0.5mm."
+  },
+  {
+    "id": 239,
+    "topic": "crown_prep",
+    "front": "Lingual axial reduction at the margin measures 0.4mm. Which tier does this fall into?",
+    "back": "This is acceptable (not a Fail) on the lingual surface, since the lingual insufficient-reduction Fail threshold is less than 0.3mm and 0.4mm exceeds that minimum."
+  },
+  {
+    "id": 240,
+    "topic": "crown_prep",
+    "front": "Axial reduction at the margin measures 2.3mm. Which tier does this fall into?",
+    "back": "Fail, since excessive axial reduction at the margin is defined as greater than 2.0mm."
+  },
+  {
+    "id": 241,
+    "topic": "crown_prep",
+    "front": "What criterion assesses whether a restoration can be seated onto and removed from the prepared tooth without binding?",
+    "back": "Path of Draw assesses this, checking that the axial walls create one consistent line of insertion and removal with no blocking undercuts."
+  },
+  {
+    "id": 242,
+    "topic": "crown_prep",
+    "front": "How does 'excessive convergence' differ in severity from 'parallel axial walls' under the Path of Draw criterion?",
+    "back": "Excessive convergence that does not compromise retention is Minimally Competent, and truly parallel axial walls that still allow a provisional to be drawn on and off are also Minimally Competent; only convergence severe enough to compromise retention, or an undercut requiring modification, is a Fail."
+  },
+  {
+    "id": 243,
+    "topic": "crown_prep",
+    "front": "What is the correct FDI tooth notation style used throughout the NDECC crown preparation content, and why does it matter?",
+    "back": "FDI two-digit notation such as tooth 4.6 or tooth 1.1 is used throughout, not the American Universal Numbering System (1 to 32), since NDECC is a Canadian exam and grading materials use FDI notation."
+  },
+  {
+    "id": 244,
+    "topic": "crown_prep",
+    "front": "Besides Path of Draw and Margin, name the remaining criteria categories for crown preparation and one Fail example from each.",
+    "back": "Preservation of Tooth Vitality and Structural Durability fails on insufficient reduction preventing fabrication; Finish fails on unsupported enamel compromising marginal integrity; Damage fails when damage requires a restoration."
+  },
+  {
+    "id": 245,
+    "topic": "crown_prep",
+    "front": "Summarize the four numeric axial reduction and margin position thresholds that most often decide a crown preparation Fail.",
+    "back": "Facial axial reduction below 0.5mm, lingual axial reduction below 0.3mm, axial reduction at the margin above 2.0mm, and margin position at or beyond 2.0mm supragingival or at or beyond 1.0mm subgingival are the four thresholds that most often decide a Fail."
+  },
+  {
+    "id": 246,
+    "topic": "provisional_crown",
+    "front": "Which of the 7 Day 1 Clinical Skills procedures is the provisional crown restoration, and what is it fabricated on?",
+    "back": "It is procedure 7 of 7. It is fabricated on the candidate's own crown preparation from procedure 6, so a poor crown prep can make the provisional harder to fit correctly."
+  },
+  {
+    "id": 247,
+    "topic": "provisional_crown",
+    "front": "How many grading categories does the provisional crown restoration use, and what are they?",
+    "back": "Three categories: Margin and Adaptation, Morphology and Occlusion, and Finish."
+  },
+  {
+    "id": 248,
+    "topic": "provisional_crown",
+    "front": "Does the provisional crown restoration have a Damage category like most other Day 1 procedures?",
+    "back": "No. Provisional crown restoration is graded on only three categories (Margin and Adaptation, Morphology and Occlusion, Finish) with no separate Damage category."
+  },
+  {
+    "id": 249,
+    "topic": "provisional_crown",
+    "front": "What defines Competent on the Margin and Adaptation criterion for a provisional crown?",
+    "back": "Optimal margin, optimal adaptation, optimal retention, optimal stability, optimal seating, and the restoration is removable and intact."
+  },
+  {
+    "id": 250,
+    "topic": "provisional_crown",
+    "front": "An underextended margin that does not impact retention is graded how on Margin and Adaptation?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 251,
+    "topic": "provisional_crown",
+    "front": "An undercontoured margin that does not impact durability is graded how on Margin and Adaptation?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 252,
+    "topic": "provisional_crown",
+    "front": "An overextended or overcontoured margin that does not impact gingival health is graded how on Margin and Adaptation?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 253,
+    "topic": "provisional_crown",
+    "front": "For Margin and Adaptation, what two additional findings are acceptable at the Minimally Competent tier (beyond margin issues)?",
+    "back": "Fully seated, stable, and retentive; and removable and intact."
+  },
+  {
+    "id": 254,
+    "topic": "provisional_crown",
+    "front": "An underextended margin negatively impacting retention or causing sensitivity is graded how on Margin and Adaptation?",
+    "back": "Fail."
+  },
+  {
+    "id": 255,
+    "topic": "provisional_crown",
+    "front": "An overcontoured margin negatively impacting gingival health is graded how on Margin and Adaptation?",
+    "back": "Fail."
+  },
+  {
+    "id": 256,
+    "topic": "provisional_crown",
+    "front": "An overextended or undercontoured margin resulting in poor structural durability is graded how on Margin and Adaptation?",
+    "back": "Fail."
+  },
+  {
+    "id": 257,
+    "topic": "provisional_crown",
+    "front": "What are the two stability-related Fail findings on the Margin and Adaptation criterion?",
+    "back": "Restoration is unstable; and restoration cannot be removed."
+  },
+  {
+    "id": 258,
+    "topic": "provisional_crown",
+    "front": "Why must a provisional crown be removable, and what happens if it cannot be removed?",
+    "back": "The provisional is a temporary restoration meant to protect the prep between visits, so it must come off intact when required. A provisional that cannot be removed is a Fail on Margin and Adaptation."
+  },
+  {
+    "id": 259,
+    "topic": "provisional_crown",
+    "front": "What defines Competent on the Morphology and Occlusion criterion for a provisional crown?",
+    "back": "Optimal contour for gingival health and esthetics, plus optimal interproximal and occlusal contacts."
+  },
+  {
+    "id": 260,
+    "topic": "provisional_crown",
+    "front": "An over or undercontour that does not affect occlusal contacts is graded how on Morphology and Occlusion?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 261,
+    "topic": "provisional_crown",
+    "front": "A proximal contact that is present but small, light, or not optimal is graded how on Morphology and Occlusion?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 262,
+    "topic": "provisional_crown",
+    "front": "Supraocclusion with light contacts elsewhere in the quadrant is graded how on Morphology and Occlusion?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 263,
+    "topic": "provisional_crown",
+    "front": "A restoration that does not reproduce anatomical contour, negatively impacting gingival health, esthetics, or durability, is graded how on Morphology and Occlusion?",
+    "back": "Fail."
+  },
+  {
+    "id": 264,
+    "topic": "provisional_crown",
+    "front": "What two proximal contact findings are Fail on Morphology and Occlusion?",
+    "back": "Absent proximal contact (contact is not present), or a contact that blocks floss entirely."
+  },
+  {
+    "id": 265,
+    "topic": "provisional_crown",
+    "front": "An occlusal contact risking fracture or trauma is graded how on Morphology and Occlusion?",
+    "back": "Fail."
+  },
+  {
+    "id": 266,
+    "topic": "provisional_crown",
+    "front": "A provisional crown that fractures or cracks during occlusion evaluation is graded how on Morphology and Occlusion?",
+    "back": "Fail. This is distinct from submitting a restoration that is already fractured, which is a Critical Error."
+  },
+  {
+    "id": 267,
+    "topic": "provisional_crown",
+    "front": "What defines Competent on the Finish criterion for a provisional crown?",
+    "back": "Smooth, optimally polished, no roughness or porosities, and no excess material on tissue."
+  },
+  {
+    "id": 268,
+    "topic": "provisional_crown",
+    "front": "Roughness that allows floss through without breaking it is graded how on Finish?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 269,
+    "topic": "provisional_crown",
+    "front": "Roughness or porosities unlikely to cause discomfort or food retention are graded how on Finish?",
+    "back": "Minimally Competent."
+  },
+  {
+    "id": 270,
+    "topic": "provisional_crown",
+    "front": "Roughness that causes floss to break is graded how on Finish for a provisional crown?",
+    "back": "Fail."
+  },
+  {
+    "id": 271,
+    "topic": "provisional_crown",
+    "front": "Roughness or porosity causing discomfort or food retention is graded how on Finish?",
+    "back": "Fail."
+  },
+  {
+    "id": 272,
+    "topic": "provisional_crown",
+    "front": "Excess restorative material left on soft or hard tissue is graded how on Finish?",
+    "back": "Fail."
+  },
+  {
+    "id": 273,
+    "topic": "provisional_crown",
+    "front": "What are the four Critical Errors for provisional crown restoration?",
+    "back": "Anything preventing evaluation; no restoration performed; restoration submitted fractured; and foreign objects or materials remaining in the oral cavity."
+  },
+  {
+    "id": 274,
+    "topic": "provisional_crown",
+    "front": "If a candidate submits a provisional crown that is already fractured, is this a Fail or a Critical Error?",
+    "back": "A Critical Error, which is an automatic fail regardless of any other criteria scored. This is different from a crown that fractures during the exam's own occlusion evaluation, which is scored as a Fail under Morphology and Occlusion."
+  },
+  {
+    "id": 275,
+    "topic": "provisional_crown",
+    "front": "Leaving no restoration at all on the crown prep is graded how on the provisional crown procedure?",
+    "back": "Critical Error, an automatic fail."
+  },
+  {
+    "id": 276,
+    "topic": "provisional_crown",
+    "front": "What is a pre-formed shell in provisional crown fabrication?",
+    "back": "A ready-made temporary crown shell (for example polycarbonate or metal) selected and adapted to the candidate's own crown prep, rather than shaped entirely by hand from raw material."
+  },
+  {
+    "id": 277,
+    "topic": "provisional_crown",
+    "front": "What is free-hand fabrication of a provisional crown?",
+    "back": "Building the provisional directly on or from an impression of the prepared tooth using a moldable material, shaping the crown entirely by hand rather than starting from a pre-formed shell."
+  },
+  {
+    "id": 278,
+    "topic": "provisional_crown",
+    "front": "What is trimming in the context of provisional crown fabrication?",
+    "back": "Removing excess provisional material at the margins and contours so the restoration seats fully, does not overextend or overcontour the margin, and does not leave excess material on tissue."
+  },
+  {
+    "id": 279,
+    "topic": "provisional_crown",
+    "front": "What is polishing in the context of provisional crown fabrication?",
+    "back": "Smoothing the finished provisional's surfaces to eliminate roughness and porosities, supporting a Competent Finish grade and reducing the risk of floss breaking or food and plaque retention."
+  },
+  {
+    "id": 280,
+    "topic": "provisional_crown",
+    "front": "Why does trimming matter directly for the Margin and Adaptation criterion?",
+    "back": "Overextended or overcontoured margins from insufficient trimming can be graded Minimally Competent if gingival health is not impacted, or Fail if gingival health is negatively impacted or structural durability suffers."
+  },
+  {
+    "id": 281,
+    "topic": "provisional_crown",
+    "front": "Why does polishing matter directly for the Finish criterion?",
+    "back": "Because Competent Finish requires the provisional be smooth and optimally polished with no roughness or porosities; incomplete polishing that lets floss break or causes discomfort or food retention drops the grade to Fail."
+  },
+  {
+    "id": 282,
+    "topic": "provisional_crown",
+    "front": "Name the three tiers used to grade every criterion on the provisional crown restoration.",
+    "back": "Competent (pass, optimal), Minimally Competent (pass, acceptable), and Not Competent, also called Fail."
+  },
+  {
+    "id": 283,
+    "topic": "provisional_crown",
+    "front": "Is there partial credit on the provisional crown restoration procedure?",
+    "back": "No. Like all 7 Day 1 Clinical Skills procedures, it is graded Pass or Fail overall with no partial credit or percentage score, though each of the three criteria categories is assessed at its own tier."
+  },
+  {
+    "id": 284,
+    "topic": "provisional_crown",
+    "front": "How does the Margin and Adaptation criterion's removable requirement differ from the Critical Errors list?",
+    "back": "A restoration that is not fully removable when it should be is scored as a Fail under Margin and Adaptation, while submitting a restoration that is fractured is a listed Critical Error, an automatic fail regardless of other scores."
+  },
+  {
+    "id": 285,
+    "topic": "provisional_crown",
+    "front": "Summarize the provisional crown restoration's grading structure in one sentence.",
+    "back": "Three criteria (Margin and Adaptation, Morphology and Occlusion, Finish), each tiered Competent/Minimally Competent/Fail with no Damage category, plus four Critical Errors (evaluation prevented, no restoration performed, restoration submitted fractured, foreign objects remaining) that are automatic fails."
+  },
+  {
+    "id": 286,
+    "topic": "patient_centered_care",
+    "front": "What is the format of Day 2 of the NDECC?",
+    "back": "A half-day (about 4 hours) Situational Judgement component with 10 stations, 2 stations in each of 5 domains: Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, and Health Promotion."
+  },
+  {
+    "id": 287,
+    "topic": "patient_centered_care",
+    "front": "How is each Situational Judgement station graded?",
+    "back": "Pass/Fail, using a weighted-behavior checklist (rubric), not a percentage score."
+  },
+  {
+    "id": 288,
+    "topic": "patient_centered_care",
+    "front": "What is the overall pass rule for the Situational Judgement component?",
+    "back": "The candidate must pass at least 6 of the 10 stations, AND at least 1 of the 2 stations in EACH of the 5 domains. Failing both stations in one domain is an automatic overall fail even if 6 stations overall were passed."
+  },
+  {
+    "id": 289,
+    "topic": "patient_centered_care",
+    "front": "In a Situational Judgement rubric, how many points are Competent behaviors worth?",
+    "back": "Zero points. Competent behaviors are nice-to-have actions that do not by themselves affect the pass or fail outcome of the station."
+  },
+  {
+    "id": 290,
+    "topic": "patient_centered_care",
+    "front": "In a Situational Judgement rubric, what must the Minimally Competent behavior points sum to in order to pass a station?",
+    "back": "Exactly 1.0. Each Minimally Competent behavior carries a point value (for example 0.20 each), and the candidate must accumulate a total of 1.0 across the behaviors actually demonstrated."
+  },
+  {
+    "id": 291,
+    "topic": "patient_centered_care",
+    "front": "What happens if a candidate commits a listed Critical Error during a Situational Judgement station?",
+    "back": "It is an automatic fail (worth -1) for that station, regardless of how many Minimally Competent points were earned."
+  },
+  {
+    "id": 292,
+    "topic": "patient_centered_care",
+    "front": "In the worked tooth 4.1 example, what is the patient's presenting complaint?",
+    "back": "Low-grade pain on tooth 4.1, a tooth restored years earlier, with a periapical radiograph showing probing depths of 2 to 3mm; the candidate must discuss treatment options with the patient."
+  },
+  {
+    "id": 293,
+    "topic": "patient_centered_care",
+    "front": "In the worked tooth 4.1 example, name the four Competent (0-point) behaviors.",
+    "back": "Answers any questions; gives the patient an opportunity to ask questions; discusses the patient's special circumstances if applicable; discusses fees."
+  },
+  {
+    "id": 294,
+    "topic": "patient_centered_care",
+    "front": "In the worked tooth 4.1 example, what point value is assigned to each Minimally Competent behavior?",
+    "back": "0.20 points each, so all five listed Minimally Competent behaviors sum to exactly 1.0 if all are demonstrated."
+  },
+  {
+    "id": 295,
+    "topic": "patient_centered_care",
+    "front": "In the worked tooth 4.1 example, list the five Minimally Competent behaviors.",
+    "back": "Summarizes the problems with the tooth; provides more than one complete treatment option; explains the advantages and disadvantages of the different options and the preferred option; verifies the patient understands the explanations; communicates information effectively and in an organized manner."
+  },
+  {
+    "id": 296,
+    "topic": "patient_centered_care",
+    "front": "Does the tooth 4.1 example require the candidate to recommend only one treatment option?",
+    "back": "No. One point-bearing behavior specifically requires providing more than one complete treatment option, not a single option."
+  },
+  {
+    "id": 297,
+    "topic": "patient_centered_care",
+    "front": "Why must a candidate verify the patient understands the explanations in an SJ station like the tooth 4.1 example?",
+    "back": "Because verifying understanding is one of the point-bearing Minimally Competent behaviors; simply giving information without checking comprehension does not earn that point."
+  },
+  {
+    "id": 298,
+    "topic": "patient_centered_care",
+    "front": "What are the five official example sub-skills of the Patient-Centered Care domain?",
+    "back": "Manage patients' needs; develop a problem list; establish diagnoses; sequence treatment; develop a treatment plan."
+  },
+  {
+    "id": 299,
+    "topic": "patient_centered_care",
+    "front": "What does managing patients' needs mean as a Patient-Centered Care sub-skill?",
+    "back": "Recognizing and responding to what the patient actually needs, such as pain relief, information, reassurance, or referral, not only the clinical finding itself."
+  },
+  {
+    "id": 300,
+    "topic": "patient_centered_care",
+    "front": "What does developing a problem list mean as a Patient-Centered Care sub-skill?",
+    "back": "Identifying and organizing every clinical issue affecting the patient (for example pain, a defective restoration, periodontal findings) before deciding on treatment."
+  },
+  {
+    "id": 301,
+    "topic": "patient_centered_care",
+    "front": "What does establishing diagnoses mean as a Patient-Centered Care sub-skill?",
+    "back": "Turning the findings on the problem list into specific diagnoses, such as identifying the cause of tooth 4.1's pain, rather than only describing symptoms."
+  },
+  {
+    "id": 302,
+    "topic": "patient_centered_care",
+    "front": "What does sequencing treatment mean as a Patient-Centered Care sub-skill?",
+    "back": "Placing the needed treatments in the correct clinical order, for example addressing an acute or urgent problem before elective or cosmetic care."
+  },
+  {
+    "id": 303,
+    "topic": "patient_centered_care",
+    "front": "What does developing a treatment plan mean as a Patient-Centered Care sub-skill?",
+    "back": "Assembling the diagnoses and sequence into a complete plan of care that is presented to and discussed with the patient, including options and the preferred option."
+  },
+  {
+    "id": 304,
+    "topic": "patient_centered_care",
+    "front": "In a Patient-Centered Care SJ station, is discussing fees a point-bearing behavior?",
+    "back": "No. In the tooth 4.1 example, discussing fees is one of the 0-point Competent behaviors, not one of the point-bearing Minimally Competent behaviors."
+  },
+  {
+    "id": 305,
+    "topic": "patient_centered_care",
+    "front": "What is the risk of presenting only one treatment option in a Patient-Centered Care station?",
+    "back": "The candidate misses the point-bearing behavior of providing more than one complete treatment option, reducing the chance of reaching the 1.0 points needed to pass."
+  },
+  {
+    "id": 306,
+    "topic": "patient_centered_care",
+    "front": "How many domains make up the Situational Judgement component and how many stations are in each?",
+    "back": "5 domains, each with 2 stations, for a total of 10 stations."
+  },
+  {
+    "id": 307,
+    "topic": "patient_centered_care",
+    "front": "Name all 5 Situational Judgement domains.",
+    "back": "Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, Health Promotion."
+  },
+  {
+    "id": 308,
+    "topic": "patient_centered_care",
+    "front": "If a candidate passes 7 of 10 SJ stations overall but fails both Patient-Centered Care stations, do they pass Day 2?",
+    "back": "No. Even though 6 of 10 was reached, failing both stations in one domain (Patient-Centered Care) is an automatic overall fail for the domain requirement."
+  },
+  {
+    "id": 309,
+    "topic": "patient_centered_care",
+    "front": "If a candidate passes exactly 1 station in each of the 5 domains (5 of 10 total), do they pass Day 2?",
+    "back": "No. Passing 1 of 2 per domain satisfies the per-domain rule but only reaches 5 of 10 stations overall, short of the required 6 of 10."
+  },
+  {
+    "id": 310,
+    "topic": "patient_centered_care",
+    "front": "What two conditions must BOTH be satisfied to pass the Situational Judgement component?",
+    "back": "At least 6 of the 10 stations passed overall, AND at least 1 of the 2 stations passed in every one of the 5 domains."
+  },
+  {
+    "id": 311,
+    "topic": "patient_centered_care",
+    "front": "Is the Situational Judgement rubric shape the same across all 10 stations?",
+    "back": "Yes. Every station uses the same template: 0-point Competent behaviors, point-bearing Minimally Competent behaviors summing to 1.0, and a list of station-specific Critical Errors that cause automatic fail."
+  },
+  {
+    "id": 312,
+    "topic": "patient_centered_care",
+    "front": "Can a station's list of Minimally Competent behaviors have a different number of items from station to station?",
+    "back": "Yes. The number of Minimally Competent behaviors can vary by scenario, but whatever the count, their point values must always sum to exactly 1.0."
+  },
+  {
+    "id": 313,
+    "topic": "patient_centered_care",
+    "front": "Are Critical Errors the same list for every Situational Judgement station?",
+    "back": "No. Critical Errors are specific to each station's scenario, but any listed Critical Error always results in an automatic fail for that station regardless of domain."
+  },
+  {
+    "id": 314,
+    "topic": "patient_centered_care",
+    "front": "In the tooth 4.1 scenario, what clinical finding is provided on the periapical radiograph?",
+    "back": "Probing depths of 2 to 3mm around tooth 4.1."
+  },
+  {
+    "id": 315,
+    "topic": "patient_centered_care",
+    "front": "In a Patient-Centered Care station, what counts as developing a problem list for a patient like the one in the tooth 4.1 scenario?",
+    "back": "Recording all relevant findings, such as the low-grade pain, the existing old restoration, and the periodontal probing depths, as distinct problems before moving to diagnosis."
+  },
+  {
+    "id": 316,
+    "topic": "patient_centered_care",
+    "front": "Why is giving the patient an opportunity to ask questions only a Competent (0-point) behavior rather than point-bearing?",
+    "back": "Because it is considered a baseline good-practice behavior expected of every competent candidate, not a distinguishing behavior that separates minimally competent performance from failing performance."
+  },
+  {
+    "id": 317,
+    "topic": "patient_centered_care",
+    "front": "What is the practical implication of Competent behaviors being worth 0 points?",
+    "back": "Demonstrating only Competent behaviors, without any Minimally Competent behaviors, will not accumulate the 1.0 points needed to pass the station."
+  },
+  {
+    "id": 318,
+    "topic": "patient_centered_care",
+    "front": "How should a candidate approach sequencing treatment when a patient has both an urgent problem and a long-term restorative need?",
+    "back": "Address the urgent or acute problem first, then plan the longer-term restorative or elective treatment afterward, reflecting correct clinical priority."
+  },
+  {
+    "id": 319,
+    "topic": "patient_centered_care",
+    "front": "What is the difference between a problem list and a treatment plan in the Patient-Centered Care domain?",
+    "back": "A problem list identifies and organizes the clinical issues found; a treatment plan is the resulting sequenced set of interventions, including options, chosen to address those problems."
+  },
+  {
+    "id": 320,
+    "topic": "patient_centered_care",
+    "front": "In the tooth 4.1 example, what does communicates information effectively and in an organized manner assess?",
+    "back": "Whether the candidate presents the summary of problems, treatment options, and recommendation in a clear, logical, easy-to-follow way, not just whether the correct facts were mentioned."
+  },
+  {
+    "id": 321,
+    "topic": "patient_centered_care",
+    "front": "Why does the tooth 4.1 rubric include discusses the patient's special circumstances if applicable as only a 0-point behavior?",
+    "back": "It is conditional (only applies if special circumstances exist) and is treated as a baseline good-practice consideration rather than a behavior that determines minimal competence."
+  },
+  {
+    "id": 322,
+    "topic": "patient_centered_care",
+    "front": "What is one way a candidate could earn 0.60 of the 1.0 required points in the tooth 4.1 station?",
+    "back": "By demonstrating any three of the five 0.20-point Minimally Competent behaviors, for example summarizing the problems, giving more than one treatment option, and communicating effectively, while still needing 0.40 more points from the remaining behaviors to pass."
+  },
+  {
+    "id": 323,
+    "topic": "patient_centered_care",
+    "front": "Does earning all four Competent behaviors without any Minimally Competent behaviors pass the tooth 4.1 station?",
+    "back": "No. Since Competent behaviors are worth 0 points, the candidate would have 0 of the 1.0 points required, resulting in a fail."
+  },
+  {
+    "id": 324,
+    "topic": "patient_centered_care",
+    "front": "What is the purpose of establishing diagnoses before developing a treatment plan in the Patient-Centered Care workflow?",
+    "back": "A treatment plan should be built on confirmed diagnoses so that each planned intervention directly addresses an identified cause, rather than only treating symptoms."
+  },
+  {
+    "id": 325,
+    "topic": "patient_centered_care",
+    "front": "In the Patient-Centered Care domain, what does managing patients' needs add beyond simply making a correct clinical diagnosis?",
+    "back": "It requires attending to what matters to the patient, such as pain control, anxiety, understanding, and practical concerns, alongside the technical diagnosis and plan."
+  },
+  {
+    "id": 326,
+    "topic": "patient_centered_care",
+    "front": "How many total Situational Judgement stations must a candidate pass at minimum to meet the overall 6-of-10 rule?",
+    "back": "6 stations out of the 10 total, in addition to satisfying the separate 1-of-2-per-domain rule."
+  },
+  {
+    "id": 327,
+    "topic": "patient_centered_care",
+    "front": "Is a percentage score used to determine pass or fail on an individual Situational Judgement station?",
+    "back": "No. Each station is graded strictly Pass/Fail based on whether Minimally Competent points sum to 1.0 and no Critical Error occurred, not by a percentage."
+  },
+  {
+    "id": 328,
+    "topic": "patient_centered_care",
+    "front": "What administrative detail is NOT officially published about the Situational Judgement stations?",
+    "back": "The exact per-station timing in minutes; NDEB frames Day 2 as roughly a half day of about 4 hours across 10 stations, but does not publish the exact minutes per station."
+  },
+  {
+    "id": 329,
+    "topic": "patient_centered_care",
+    "front": "In a Patient-Centered Care station, what is a practical way to remember the 5 sub-skills in workflow order?",
+    "back": "Manage the patient's needs, develop a problem list, establish diagnoses, sequence the treatment, then develop the treatment plan, moving from listening to the patient through to a final organized plan."
+  },
+  {
+    "id": 330,
+    "topic": "patient_centered_care",
+    "front": "Why does presenting the preferred option along with advantages and disadvantages of the different options matter for scoring?",
+    "back": "It is a single combined point-bearing Minimally Competent behavior in the tooth 4.1 example: explaining the advantages and disadvantages of different options AND the preferred option, so omitting the preferred-option recommendation could cost that 0.20 point."
+  },
+  {
+    "id": 331,
+    "topic": "professionalism",
+    "front": "What is Day 2 of the NDECC called and how many stations does it have?",
+    "back": "The Situational Judgement component, a half day of about 4 hours with 10 stations, 2 stations in each of 5 domains."
+  },
+  {
+    "id": 332,
+    "topic": "professionalism",
+    "front": "What is the overall pass rule across all 10 Situational Judgement stations?",
+    "back": "You must pass at least 6 of the 10 stations, and pass at least 1 of the 2 stations in every single domain. Failing both stations in one domain fails the exam regardless of your total score."
+  },
+  {
+    "id": 333,
+    "topic": "professionalism",
+    "front": "What are the three tiers of behavior in a Situational Judgement rubric?",
+    "back": "Competent behaviors (0 points, nice to have), Minimally Competent behaviors (point-bearing, must sum to 1.0 to pass), and Critical Errors (automatic fail regardless of points earned)."
+  },
+  {
+    "id": 334,
+    "topic": "professionalism",
+    "front": "How many points must the Minimally Competent behaviors sum to for a station to pass?",
+    "back": "Exactly 1.0. Each Minimally Competent behavior typically carries a value such as 0.20, and enough of them must be demonstrated to reach the 1.0 total."
+  },
+  {
+    "id": 335,
+    "topic": "professionalism",
+    "front": "Does earning a high point total protect you from a Critical Error in a Situational Judgement station?",
+    "back": "No. Any listed Critical Error is an automatic fail for that station regardless of how many Minimally Competent points were earned."
+  },
+  {
+    "id": 336,
+    "topic": "professionalism",
+    "front": "Name the 5 domains tested on Day 2 of the NDECC.",
+    "back": "Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, and Health Promotion."
+  },
+  {
+    "id": 337,
+    "topic": "professionalism",
+    "front": "According to NDEB's own protocol, what are the three example sub-skills under the Professionalism domain?",
+    "back": "Responding to ethical dilemmas, managing referrals, and using social media appropriately."
+  },
+  {
+    "id": 338,
+    "topic": "professionalism",
+    "front": "A colleague's restoration you are asked to redo is clearly defective. What professionalism principle guides how you discuss this with the patient?",
+    "back": "Honest, non-judgemental disclosure focused on the patient's current clinical needs, avoiding disparaging remarks about the previous dentist while still giving the patient accurate information to make decisions."
+  },
+  {
+    "id": 339,
+    "topic": "professionalism",
+    "front": "You notice a colleague made a clinical error that harmed a patient. What is the professionally correct response?",
+    "back": "Disclose the error and its consequences to the affected patient honestly and promptly, encourage or support the treating dentist in disclosing it, and document objectively without assigning blame in the patient record."
+  },
+  {
+    "id": 340,
+    "topic": "professionalism",
+    "front": "A patient asks you to refer them to a specialist, but you would prefer to keep the case yourself for the fee. What is the ethical obligation?",
+    "back": "Referral decisions must be based on the patient's best interest and your own scope of competence, not on financial gain. A conflict of interest must never override the duty of care owed to the patient."
+  },
+  {
+    "id": 341,
+    "topic": "professionalism",
+    "front": "What is a conflict of interest in dental practice?",
+    "back": "A situation where a dentist's personal, financial, or other interests could improperly influence professional judgement or the care recommended to a patient."
+  },
+  {
+    "id": 342,
+    "topic": "professionalism",
+    "front": "How should a dentist properly manage a genuine conflict of interest?",
+    "back": "Disclose the conflict transparently to the patient, prioritize the patient's welfare over personal gain, and if needed step aside or refer the patient to another practitioner."
+  },
+  {
+    "id": 343,
+    "topic": "professionalism",
+    "front": "What is the correct process when managing a specialist referral for a patient?",
+    "back": "Select the referral based on the patient's clinical needs and the specialist's competence, prepare complete and accurate referral documentation, communicate the reason for referral clearly to both the patient and the specialist, and follow up on outcomes."
+  },
+  {
+    "id": 344,
+    "topic": "professionalism",
+    "front": "A patient's third molar case is beyond your scope of competence. What professionalism sub-skill applies?",
+    "back": "Managing referrals: recognizing your own limits and referring the patient to an appropriately qualified colleague or specialist rather than treating beyond your competence."
+  },
+  {
+    "id": 345,
+    "topic": "professionalism",
+    "front": "Is it acceptable to post identifiable before-and-after photos of a patient's treatment on social media without consent?",
+    "back": "No. Using social media appropriately requires explicit informed patient consent before posting any identifiable clinical images, and confidentiality must be protected at all times."
+  },
+  {
+    "id": 346,
+    "topic": "professionalism",
+    "front": "A patient leaves a negative online review naming specific treatment details. Can you respond publicly with the patient's clinical information to defend yourself?",
+    "back": "No. Disclosing a patient's confidential clinical information in a public response, even to correct a review, is a confidentiality breach. Respond generally and invite the patient to discuss privately instead."
+  },
+  {
+    "id": 347,
+    "topic": "professionalism",
+    "front": "What is the core professionalism principle behind using social media appropriately?",
+    "back": "Maintaining patient confidentiality, obtaining consent for any patient-related content, avoiding misleading or unsubstantiated claims, and upholding the same standards of conduct online as in the clinic."
+  },
+  {
+    "id": 348,
+    "topic": "professionalism",
+    "front": "A dentist wants to post a testimonial-style photo of a patient's smile makeover. What must happen first?",
+    "back": "The patient must give explicit, informed, and preferably written consent specifically for that use, understanding the image may be identifiable and publicly shared."
+  },
+  {
+    "id": 349,
+    "topic": "professionalism",
+    "front": "What defines a professional boundary violation with a patient?",
+    "back": "Any personal, financial, or social relationship with a patient that compromises objective clinical judgement or exploits the trust and power imbalance inherent in the dentist-patient relationship."
+  },
+  {
+    "id": 350,
+    "topic": "professionalism",
+    "front": "Is it appropriate to begin a romantic relationship with a current patient?",
+    "back": "No. This is a professional boundary violation because the therapeutic relationship creates a power imbalance that can compromise objectivity and patient welfare."
+  },
+  {
+    "id": 351,
+    "topic": "professionalism",
+    "front": "A close friend asks you to treat them and waive standard consent and record-keeping steps because you know each other well. How should you respond?",
+    "back": "Maintain the same informed consent, documentation, and treatment standards used for any patient. Personal relationships do not exempt a dentist from professional obligations."
+  },
+  {
+    "id": 352,
+    "topic": "professionalism",
+    "front": "What is an ethical dilemma, in the context of the Professionalism domain?",
+    "back": "A situation where two or more professional or ethical duties conflict, such as patient autonomy versus beneficence, or confidentiality versus a duty to warn, and there is no single obviously correct action."
+  },
+  {
+    "id": 353,
+    "topic": "professionalism",
+    "front": "A capable adult patient refuses a recommended treatment you believe is clearly in their best interest. What principle should guide your response?",
+    "back": "Respect patient autonomy. Provide full information about risks and benefits, verify the patient understands, document the discussion, and accept their informed decision without coercion."
+  },
+  {
+    "id": 354,
+    "topic": "professionalism",
+    "front": "A patient discloses they are being abused at home during a routine appointment. What is the professional obligation?",
+    "back": "Follow applicable provincial mandatory reporting requirements where relevant, prioritize patient safety, respond with sensitivity, and document the disclosure and actions taken."
+  },
+  {
+    "id": 355,
+    "topic": "professionalism",
+    "front": "A minor patient discloses information they ask you to keep secret from their parent. What tension does this create?",
+    "back": "A tension between confidentiality and the parent or guardian's legal right to information about a minor's care; the response depends on the minor's age, maturity, and provincial consent-to-treatment law."
+  },
+  {
+    "id": 356,
+    "topic": "professionalism",
+    "front": "A patient's insurance company asks for clinical details beyond what is needed to process a claim. What should you do?",
+    "back": "Disclose only the minimum information necessary for the specific claim and obtain patient consent before releasing any additional clinical information."
+  },
+  {
+    "id": 357,
+    "topic": "professionalism",
+    "front": "What is the professional response if you discover you made a clinical error yourself?",
+    "back": "Disclose the error to the patient honestly and promptly, explain the implications and corrective options, document the incident objectively, and take steps to remedy the harm."
+  },
+  {
+    "id": 358,
+    "topic": "professionalism",
+    "front": "A colleague asks you to co-sign a chart entry for treatment they performed but you did not witness. What is the correct response?",
+    "back": "Decline. Signing or co-signing documentation for care you did not personally provide or witness is dishonest and compromises the accuracy of the patient record."
+  },
+  {
+    "id": 359,
+    "topic": "professionalism",
+    "front": "You suspect a colleague is practising while impaired by substance use. What is the professional obligation?",
+    "back": "Prioritize patient safety, and report the concern through the appropriate regulatory or professional channel, since failing to act could allow patient harm to continue."
+  },
+  {
+    "id": 360,
+    "topic": "professionalism",
+    "front": "A dental supply representative offers you a personal gift tied to prescribing a specific product. What ethical concern does this raise?",
+    "back": "A conflict of interest: accepting the gift could improperly influence your clinical product choices away from what is genuinely best for the patient."
+  },
+  {
+    "id": 361,
+    "topic": "professionalism",
+    "front": "What should referral documentation always include, per the Professionalism domain?",
+    "back": "The clinical reason for referral, relevant history and findings, radiographs or records as needed, and clear communication of urgency, so the receiving practitioner has what is needed to continue care safely."
+  },
+  {
+    "id": 362,
+    "topic": "professionalism",
+    "front": "A patient asks you to falsify a treatment date on an insurance form so an expired benefit will still be covered. What is the correct response?",
+    "back": "Refuse. Falsifying records or claims is a serious ethical and legal violation, regardless of the patient's financial hardship or intent."
+  },
+  {
+    "id": 363,
+    "topic": "professionalism",
+    "front": "What professional value is tested when a Situational Judgement station involves accepting a gift from a patient?",
+    "back": "Maintaining appropriate boundaries and objectivity; a small token gift is usually acceptable, but a gift substantial enough to influence clinical judgement or create obligation should be respectfully declined or disclosed."
+  },
+  {
+    "id": 364,
+    "topic": "professionalism",
+    "front": "In the worked Patient-Centered Care example from NDEB's protocol, what value did EACH Minimally Competent behavior carry, and how many were listed?",
+    "back": "Each Minimally Competent behavior carried 0.20 points, and 5 were listed, summing to exactly 1.0 to pass."
+  },
+  {
+    "id": 365,
+    "topic": "professionalism",
+    "front": "True or false: a Situational Judgement station's Competent behaviors are required to pass the station.",
+    "back": "False. Competent behaviors are worth 0 points and are considered nice to have; only the point-bearing Minimally Competent behaviors summing to 1.0 determine a pass, alongside the absence of any Critical Error."
+  },
+  {
+    "id": 366,
+    "topic": "professionalism",
+    "front": "A patient asks for your personal opinion on a competing dentist's treatment quality on a public review site. How should you respond?",
+    "back": "Decline to comment publicly on a colleague's care. Offer to discuss the patient's own clinical situation privately instead, protecting both confidentiality and professional courtesy."
+  },
+  {
+    "id": 367,
+    "topic": "professionalism",
+    "front": "What is the risk of accepting a patient's Facebook friend request or following them on personal social media?",
+    "back": "It can blur professional boundaries, expose private information inappropriately, and create dual relationships that compromise objective clinical judgement."
+  },
+  {
+    "id": 368,
+    "topic": "professionalism",
+    "front": "A patient with a genuine emergency requests urgent transfer of their records to a new dentist. Can you delay release pending an outstanding balance?",
+    "back": "No. Withholding records needed for urgent or ongoing care over an unpaid balance can jeopardize patient welfare and is a professionalism and ethical violation; timely record transfer takes priority."
+  },
+  {
+    "id": 369,
+    "topic": "professionalism",
+    "front": "What is the underlying theme connecting all three Professionalism sub-skills: ethical dilemmas, referrals, and social media?",
+    "back": "Each requires putting the patient's welfare, informed consent, and confidentiality ahead of the dentist's own convenience, financial interest, or reputation."
+  },
+  {
+    "id": 370,
+    "topic": "professionalism",
+    "front": "On the NDECC Situational Judgement component, if you commit a Critical Error in one station but pass the other station in that same domain, do you still fail the exam?",
+    "back": "Not necessarily. The rule requires passing at least 1 of the 2 stations in every domain, so passing the sibling station in that domain satisfies the domain requirement, provided you also pass at least 6 of 10 stations overall."
+  },
+  {
+    "id": 371,
+    "topic": "communication_collaboration",
+    "front": "What three types of behaviours make up an NDECC Situational Judgement station rubric?",
+    "back": "Competent behaviours (0 points, nice to have), Minimally Competent behaviours (each worth a set point value that must sum to 1.0 to pass), and Critical Errors (automatic fail regardless of points earned elsewhere)."
+  },
+  {
+    "id": 372,
+    "topic": "communication_collaboration",
+    "front": "In an SJ station, what total must the point values of the minimally competent behaviours reach for the candidate to pass that station?",
+    "back": "They must sum to exactly 1.0. Falling short means the station is failed even if no critical error occurred."
+  },
+  {
+    "id": 373,
+    "topic": "communication_collaboration",
+    "front": "What happens to a station's outcome if the candidate commits any listed critical error, even after earning enough points to reach 1.0?",
+    "back": "The station is an automatic fail. A critical error overrides all earned points, since critical errors carry a fixed fail value regardless of the point total."
+  },
+  {
+    "id": 374,
+    "topic": "communication_collaboration",
+    "front": "What is the overall pass rule for Day 2 of the NDECC across all 10 Situational Judgement stations?",
+    "back": "The candidate must pass at least 6 of the 10 stations overall AND pass at least 1 of the 2 stations in every one of the 5 domains. Failing both stations in a single domain is an automatic overall fail even with 6 or more total passes."
+  },
+  {
+    "id": 375,
+    "topic": "communication_collaboration",
+    "front": "Name the 5 domains tested across the 10 Situational Judgement stations.",
+    "back": "Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, and Health Promotion, with 2 stations in each domain."
+  },
+  {
+    "id": 376,
+    "topic": "communication_collaboration",
+    "front": "What does demonstrating cultural competence mean for a dentist in a Communication and Collaboration station?",
+    "back": "Recognizing and respecting a patient's cultural, religious, or personal beliefs that may affect their care decisions, adapting communication style accordingly, and never assuming the patient's preferences based on stereotypes."
+  },
+  {
+    "id": 377,
+    "topic": "communication_collaboration",
+    "front": "Give an example of a culturally competent behaviour a dentist should show with a patient from an unfamiliar background.",
+    "back": "Asking the patient directly about any beliefs, preferences, or restrictions that may affect treatment (for example around blood products, fasting, or family involvement in decisions) rather than assuming based on ethnicity or religion."
+  },
+  {
+    "id": 378,
+    "topic": "communication_collaboration",
+    "front": "Why is it a risk to make assumptions about a patient's needs based on their apparent background?",
+    "back": "Assumptions can lead to a treatment plan that conflicts with the patient's actual values, damages trust, and may be scored as a lack of cultural competence or, in severe cases, a critical error for disrespectful conduct."
+  },
+  {
+    "id": 379,
+    "topic": "communication_collaboration",
+    "front": "What should a dentist do when a language barrier exists between the dentist and the patient?",
+    "back": "Use a professional interpreter or translation resource when available, speak in plain simple language, confirm understanding through teach-back, and avoid relying solely on a family member for medical or consent conversations."
+  },
+  {
+    "id": 380,
+    "topic": "communication_collaboration",
+    "front": "What does the sub-skill of gathering data involve in a Communication and Collaboration station?",
+    "back": "Systematically collecting relevant clinical, medical, and personal history information from the patient (or a chart, radiograph, or referral letter) to accurately understand the problem before forming a diagnosis or treatment plan."
+  },
+  {
+    "id": 381,
+    "topic": "communication_collaboration",
+    "front": "Name three sources of information a dentist should gather before discussing treatment with a patient.",
+    "back": "The patient's own verbal history and chief complaint, the clinical/radiographic findings on examination, and any existing chart notes or referral documentation from another provider."
+  },
+  {
+    "id": 382,
+    "topic": "communication_collaboration",
+    "front": "Why should open-ended questions be used when gathering data from a patient?",
+    "back": "Open-ended questions let the patient describe their concern in their own words, surfacing details a yes/no question would miss and helping the dentist summarize the problem accurately for the patient later."
+  },
+  {
+    "id": 383,
+    "topic": "communication_collaboration",
+    "front": "What is a key behaviour when clarifying a patient's chief complaint during data gathering?",
+    "back": "Restating or summarizing what the patient said back to them to confirm accuracy, then asking follow-up questions about onset, location, duration, and severity before moving to examination findings."
+  },
+  {
+    "id": 384,
+    "topic": "communication_collaboration",
+    "front": "What does maintaining patient privacy require of a dentist working in a shared or open clinic environment?",
+    "back": "Discussing sensitive findings, diagnoses, or personal history where other patients or staff cannot overhear, and keeping any visible chart, radiograph, or screen information out of view of anyone without a need to know."
+  },
+  {
+    "id": 385,
+    "topic": "communication_collaboration",
+    "front": "Give an example of a privacy breach that could occur in a dental office setting.",
+    "back": "Discussing a patient's diagnosis or treatment cost loudly at the front desk within earshot of other patients, or leaving a chart open on a counter where an unrelated staff member or visitor can read it."
+  },
+  {
+    "id": 386,
+    "topic": "communication_collaboration",
+    "front": "What should a dentist do before discussing a patient's diagnosis in an area where others might overhear?",
+    "back": "Move the conversation to a private operatory or consultation room, or lower voice and close the door, before discussing sensitive clinical or personal information."
+  },
+  {
+    "id": 387,
+    "topic": "communication_collaboration",
+    "front": "Why must patient records be kept confidential even from other clinic staff members?",
+    "back": "Access should be limited to those with a genuine need to know for that patient's care. Sharing records or details with staff uninvolved in the patient's treatment is a privacy violation, independent of intent."
+  },
+  {
+    "id": 388,
+    "topic": "communication_collaboration",
+    "front": "What key information must referral documentation to a specialist include?",
+    "back": "The patient's identifying information, the reason for referral and relevant history, clinical and radiographic findings, the specific question or service being requested of the specialist, and the referring dentist's contact information."
+  },
+  {
+    "id": 389,
+    "topic": "communication_collaboration",
+    "front": "Why must a referral letter clearly state the reason for referral rather than just the tooth involved?",
+    "back": "The specialist needs to know exactly what question the referring dentist wants answered or what procedure is being requested, so care is not delayed or duplicated by an unclear or incomplete request."
+  },
+  {
+    "id": 390,
+    "topic": "communication_collaboration",
+    "front": "What should a referral letter state about the urgency of the patient's condition?",
+    "back": "It should clearly flag whether the situation is urgent (for example acute infection or trauma) versus routine, so the receiving specialist can triage the appointment appropriately."
+  },
+  {
+    "id": 391,
+    "topic": "communication_collaboration",
+    "front": "Name one critical error related to preparing referral documentation.",
+    "back": "Omitting information necessary for the specialist to safely treat the patient, such as leaving out a relevant medical history item or the actual reason for the referral, which prevents proper evaluation of the case."
+  },
+  {
+    "id": 392,
+    "topic": "communication_collaboration",
+    "front": "What key components must be indicated on a removable partial denture (RPD) design?",
+    "back": "The major and minor connectors, the clasp assemblies (retentive and reciprocal arms), rest seats, the saddle or denture base areas, and whether each edentulous area is tooth-supported, tissue-supported, or a combination."
+  },
+  {
+    "id": 393,
+    "topic": "communication_collaboration",
+    "front": "What must an RPD design specify about tooth-supported versus tissue-supported edentulous areas?",
+    "back": "The design must clearly indicate which saddle areas are bounded by teeth (tooth-supported) and which are free-end (tissue-supported), since this determines the type of rest, clasp design, and indirect retention needed."
+  },
+  {
+    "id": 394,
+    "topic": "communication_collaboration",
+    "front": "Name three components typically drawn on an RPD design chart.",
+    "back": "Major connector, clasps with rest seats, and the denture base outline over each edentulous saddle area."
+  },
+  {
+    "id": 395,
+    "topic": "communication_collaboration",
+    "front": "Why must a partial denture design specify the clasp type and its exact tooth location?",
+    "back": "Clasp type and placement determine retention, stability, and support, and affect the abutment tooth's health, so the laboratory needs the exact tooth and clasp design specified to fabricate the framework correctly."
+  },
+  {
+    "id": 396,
+    "topic": "communication_collaboration",
+    "front": "What fields must a dental laboratory prescription include?",
+    "back": "Patient name and identifying information, tooth number(s) using FDI notation, the specific restoration or appliance requested, material and shade specified, any special instructions or design details, the date the case is required back, and the dentist's signature and licence information."
+  },
+  {
+    "id": 397,
+    "topic": "communication_collaboration",
+    "front": "Why must a lab prescription always specify the shade and material to be used?",
+    "back": "Without an explicit shade and material, the laboratory cannot guarantee an esthetic or biocompatible match, and an incorrect or unspecified material choice could compromise fit, function, or patient safety."
+  },
+  {
+    "id": 398,
+    "topic": "communication_collaboration",
+    "front": "What professional requirement applies to signing a dental lab prescription?",
+    "back": "The prescribing dentist must sign and date the prescription, taking responsibility for its accuracy, since the laboratory technician fabricates strictly according to the written prescription and cannot diagnose or alter the treatment plan."
+  },
+  {
+    "id": 399,
+    "topic": "communication_collaboration",
+    "front": "What should a lab prescription state regarding the return date of the case?",
+    "back": "It should specify the date or timeframe the finished appliance or restoration is needed back, so the laboratory can schedule fabrication and the dentist can plan the patient's next appointment accordingly."
+  },
+  {
+    "id": 400,
+    "topic": "communication_collaboration",
+    "front": "What are the key elements of an effective treatment discussion station, per NDEB's worked example?",
+    "back": "Summarizing the problem with the tooth, presenting more than one complete treatment option, explaining the advantages and disadvantages of each option and the preferred choice, verifying the patient understands, and communicating in an organized, effective manner."
+  },
+  {
+    "id": 401,
+    "topic": "communication_collaboration",
+    "front": "Why must a dentist provide more than one treatment option during a treatment discussion?",
+    "back": "Presenting a single option does not respect patient autonomy or allow true informed decision-making. Giving multiple complete options, with pros and cons of each, is one of the minimally competent behaviours required to reach the passing point total."
+  },
+  {
+    "id": 402,
+    "topic": "communication_collaboration",
+    "front": "What behaviour confirms a patient actually understood the treatment discussion, not just heard it?",
+    "back": "Asking the patient to restate the plan in their own words, or directly checking comprehension (teach-back), rather than simply asking if they have questions."
+  },
+  {
+    "id": 403,
+    "topic": "communication_collaboration",
+    "front": "Name one 0-point (competent, nice-to-have) behaviour listed in NDEB's treatment discussion worked example.",
+    "back": "Answering any questions the patient has, giving the patient an opportunity to ask questions, discussing the patient's special circumstances if applicable, or discussing fees. These are expected but do not by themselves determine pass or fail."
+  },
+  {
+    "id": 404,
+    "topic": "communication_collaboration",
+    "front": "What are the essential elements of valid informed consent?",
+    "back": "Disclosure of the diagnosis and proposed treatment, the risks and benefits, reasonable alternatives (including no treatment), confirmation the patient has the capacity to decide, and voluntary agreement free of coercion, with an opportunity for the patient to ask questions."
+  },
+  {
+    "id": 405,
+    "topic": "communication_collaboration",
+    "front": "Why must risks, benefits, and alternatives all be discussed for consent to be considered valid?",
+    "back": "Consent is only informed if the patient understands what they are agreeing to, what could go wrong, and what other reasonable choices exist, including declining treatment. Omitting any of these makes the consent incomplete and not truly informed."
+  },
+  {
+    "id": 406,
+    "topic": "communication_collaboration",
+    "front": "What can make informed consent invalid even if the patient has signed a written consent form?",
+    "back": "If the patient was not actually given an understandable explanation of the risks, benefits, and alternatives, or did not have the opportunity to ask questions, the signature alone does not make the consent valid."
+  },
+  {
+    "id": 407,
+    "topic": "communication_collaboration",
+    "front": "What must a dentist confirm with the patient before proceeding with treatment under informed consent?",
+    "back": "That the patient understands the diagnosis and proposed treatment, has had their questions answered, and voluntarily agrees to proceed, verified by checking comprehension rather than assuming silence means agreement."
+  },
+  {
+    "id": 408,
+    "topic": "communication_collaboration",
+    "front": "What communication behaviour is expected when a dentist interacts with clinical or auxiliary staff?",
+    "back": "Communicating instructions clearly, respectfully, and in an organized manner, listening to staff observations or concerns, and collaborating as a team rather than issuing directions without explanation."
+  },
+  {
+    "id": 409,
+    "topic": "communication_collaboration",
+    "front": "Give an example of a critical error in a staff interaction station.",
+    "back": "Dismissing or ignoring a staff member's safety concern (for example about a contaminated instrument or a patient reaction) and proceeding with treatment anyway, jeopardizing patient or operator safety."
+  },
+  {
+    "id": 410,
+    "topic": "communication_collaboration",
+    "front": "Why is respectful collaboration with dental assistants and hygienists important for patient safety?",
+    "back": "Staff often notice details the dentist may miss (medical alerts, patient distress, contamination). Poor communication or dismissiveness can cause important safety information to be missed or ignored."
+  },
+  {
+    "id": 411,
+    "topic": "communication_collaboration",
+    "front": "What should a dentist do if a staff member raises a safety concern during a procedure?",
+    "back": "Stop and listen to the concern, evaluate it before proceeding, and address it appropriately rather than overriding it without discussion, since dismissing a valid safety concern can constitute a critical error."
+  },
+  {
+    "id": 412,
+    "topic": "communication_collaboration",
+    "front": "What must post-operative instructions given to a patient include?",
+    "back": "Expected symptoms and their normal duration, pain and swelling management, dietary and activity restrictions, oral hygiene modifications, signs of a complication to watch for, and when and how to contact the office if a problem arises."
+  },
+  {
+    "id": 413,
+    "topic": "communication_collaboration",
+    "front": "Why should post-operative instructions be given both verbally and in writing?",
+    "back": "Verbal delivery allows immediate clarification and confirms understanding in the moment, while written instructions give the patient an accurate reference after anesthesia or stress may have reduced their recall."
+  },
+  {
+    "id": 414,
+    "topic": "communication_collaboration",
+    "front": "What would count as a critical error related to giving post-operative instructions?",
+    "back": "Failing to give the patient any instructions at all, or omitting a safety-critical warning sign (such as spreading infection or uncontrolled bleeding) that the patient needs to know to seek urgent care."
+  },
+  {
+    "id": 415,
+    "topic": "communication_collaboration",
+    "front": "What should post-operative instructions include regarding an emergency or after-hours contact?",
+    "back": "Clear information on how to reach the dentist or on-call coverage if a complication such as severe pain, swelling, bleeding, or fever develops outside regular office hours."
+  },
+  {
+    "id": 416,
+    "topic": "practice_info_management",
+    "front": "How many Situational Judgement stations are on Day 2 of the NDECC, and how many domains do they cover?",
+    "back": "10 stations total, 2 stations in each of 5 domains: Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, and Health Promotion."
+  },
+  {
+    "id": 417,
+    "topic": "practice_info_management",
+    "front": "What is the overall pass rule for the Situational Judgement component?",
+    "back": "You must pass at least 6 of the 10 stations, AND pass at least 1 of the 2 stations in every domain. Failing both stations in one domain is an automatic overall fail, even with 6 or more total passes."
+  },
+  {
+    "id": 418,
+    "topic": "practice_info_management",
+    "front": "How is each Situational Judgement station scored?",
+    "back": "Pass/Fail via a weighted-behavior checklist: Competent behaviors are worth 0 points (nice to have), Minimally Competent behaviors each carry a point value that must sum to 1.0 to pass, and any Critical Error is an automatic fail regardless of points earned."
+  },
+  {
+    "id": 419,
+    "topic": "practice_info_management",
+    "front": "In the SJ rubric, what does a 0-point Competent behavior mean for pass/fail?",
+    "back": "It does not affect pass/fail on its own. It is a nice-to-have behavior that shows optimal performance but earns no required points."
+  },
+  {
+    "id": 420,
+    "topic": "practice_info_management",
+    "front": "In the SJ rubric, what must the Minimally Competent point-bearing behaviors do to pass a station?",
+    "back": "Their point values must sum to exactly 1.0. For example, five behaviors each worth 0.20 points that together reach 1.0."
+  },
+  {
+    "id": 421,
+    "topic": "practice_info_management",
+    "front": "What happens at an SJ station if a candidate commits a listed Critical Error, even after earning 1.0 in points?",
+    "back": "The station is an automatic fail. A Critical Error overrides any points already earned toward the 1.0 threshold."
+  },
+  {
+    "id": 422,
+    "topic": "practice_info_management",
+    "front": "Name the 3 sub-skills that fall under the Practice and Information Management domain.",
+    "back": "Maintaining and managing patient records, following protocols, and making evidence-based decisions."
+  },
+  {
+    "id": 423,
+    "topic": "practice_info_management",
+    "front": "Roughly how long is each SJ station, including reading and transition time?",
+    "back": "Approximately 20 to 24 minutes per station, based on the half-day for 10 stations. NDEB does not publish exact per-station minutes, so this is a disclosed estimate, not an official figure."
+  },
+  {
+    "id": 424,
+    "topic": "practice_info_management",
+    "front": "What must a complete patient chart entry document, at minimum, after a clinical visit?",
+    "back": "The date of service, tooth and surface(s) treated using FDI notation, the diagnosis or reason for treatment, the procedure performed, materials and anesthetic used, any complications, and post-op instructions given to the patient."
+  },
+  {
+    "id": 425,
+    "topic": "practice_info_management",
+    "front": "Why does a chart entry need the specific tooth number in FDI notation rather than a vague description like left upper molar?",
+    "back": "A precise tooth number such as tooth 2.6 prevents ambiguity for future providers, supports continuity of care, and protects the dentist if the record is ever reviewed for a complaint or audit."
+  },
+  {
+    "id": 426,
+    "topic": "practice_info_management",
+    "front": "What information about consent should a chart entry always capture before a procedure?",
+    "back": "That informed consent was obtained, including that risks, benefits, and alternatives (including no treatment) were discussed and the patient had the opportunity to ask questions."
+  },
+  {
+    "id": 427,
+    "topic": "practice_info_management",
+    "front": "A patient calls the next day reporting pain after an extraction. What must the record of that call include?",
+    "back": "The date and time of the call, the patient's reported symptoms, the advice given, and any follow-up appointment scheduled. Undocumented advice is treated as advice never given."
+  },
+  {
+    "id": 428,
+    "topic": "practice_info_management",
+    "front": "Why should a chart correction never simply erase or delete the original entry?",
+    "back": "The original entry must remain legible with the correction added and dated alongside it, so the record shows a clear, honest audit trail rather than an alteration that could look like a cover-up."
+  },
+  {
+    "id": 429,
+    "topic": "practice_info_management",
+    "front": "What should happen when a patient declines a recommended treatment?",
+    "back": "The refusal, the risks of not treating that were explained, and the patient's decision must all be documented in the chart, protecting both patient autonomy and the practitioner."
+  },
+  {
+    "id": 430,
+    "topic": "practice_info_management",
+    "front": "How should a referral to a specialist be documented in practice management terms?",
+    "back": "The chart should note the reason for referral, the specialist's name, the information sent with the referral, and confirmation the patient understood why the referral was made."
+  },
+  {
+    "id": 431,
+    "topic": "practice_info_management",
+    "front": "What is the general standard for how long dental patient records must be retained after the last entry, in most Canadian provinces?",
+    "back": "Commonly cited as 10 years or more from the last entry, though the exact requirement varies by province and by whether the patient was a minor at the time of treatment, so always confirm the specific rule of the relevant provincial regulatory college."
+  },
+  {
+    "id": 432,
+    "topic": "practice_info_management",
+    "front": "If a patient requests a copy of their own dental record, what is the general obligation?",
+    "back": "The practice must provide access to the record (or a copy) within a reasonable time, since the patient generally owns the information even though the physical chart belongs to the practice."
+  },
+  {
+    "id": 433,
+    "topic": "practice_info_management",
+    "front": "Name three hand hygiene moments that infection control protocols require in a dental operatory.",
+    "back": "Before gloving, after removing gloves, and whenever moving between patients. Hand hygiene not performed, or not performed properly, is one of the 15 named IC&S errors."
+  },
+  {
+    "id": 434,
+    "topic": "practice_info_management",
+    "front": "What personal protective equipment must be worn correctly throughout a clinical procedure per IC&S protocol?",
+    "back": "A mask worn correctly and eye protection worn correctly. Either one missing or worn incorrectly is a named IC&S error."
+  },
+  {
+    "id": 435,
+    "topic": "practice_info_management",
+    "front": "Under infection control protocol, what is prohibited once treatment gloves are on?",
+    "back": "Touching your own face, hair, or mask, adjusting hearing aid batteries, or touching any other non-sterile item with treatment gloves. Loupes are the one explicit exception, they may be touched or adjusted with gloves on."
+  },
+  {
+    "id": 436,
+    "topic": "practice_info_management",
+    "front": "How many total IC&S errors are permitted across an entire clinical day, and what happens on the next one?",
+    "back": "A maximum of 3 errors are permitted; a 4th IC&S error of any kind is an automatic fail for the day."
+  },
+  {
+    "id": 437,
+    "topic": "practice_info_management",
+    "front": "What must be used with a high-speed handpiece to avoid an IC&S error?",
+    "back": "Adequate cooling water. No or insufficient cooling water with a high-speed handpiece is a named IC&S error, since it risks thermal damage to the pulp."
+  },
+  {
+    "id": 438,
+    "topic": "practice_info_management",
+    "front": "What is required for sharps and needles under infection control protocol?",
+    "back": "Acceptable handling and disposal into a designated sharps container. Unacceptable handling or disposal of amalgam, sharps, or needles is a named IC&S error."
+  },
+  {
+    "id": 439,
+    "topic": "practice_info_management",
+    "front": "In everyday practice, what basic protocol step prevents cross-contamination between operatories?",
+    "back": "Using single-use barriers or properly disinfecting/sterilizing surfaces and instruments between every patient, and never reusing a contaminated instrument or material."
+  },
+  {
+    "id": 440,
+    "topic": "practice_info_management",
+    "front": "What is the first step of evidence-based decision making when facing a clinical question?",
+    "back": "Formulate a clear, focused clinical question, then search for the best available current research evidence relevant to that specific question."
+  },
+  {
+    "id": 441,
+    "topic": "practice_info_management",
+    "front": "Name the three components that evidence-based dentistry weighs together, according to the standard framework.",
+    "back": "The best available scientific evidence, the clinician's own clinical expertise, and the patient's individual needs, values, and preferences."
+  },
+  {
+    "id": 442,
+    "topic": "practice_info_management",
+    "front": "Why is patient preference still part of an evidence-based decision even when strong research supports one option?",
+    "back": "Because a treatment plan must be acceptable to the patient to succeed; ignoring the patient's values and circumstances risks non-adherence even if the evidence for the option is strong."
+  },
+  {
+    "id": 443,
+    "topic": "practice_info_management",
+    "front": "A patient asks why you recommend a stainless steel crown over a large filling for a badly broken-down primary molar. What evidence-based reasoning supports your answer?",
+    "back": "Research shows stainless steel crowns have a substantially higher long-term success rate than large multi-surface restorations on primary molars, reducing the risk of failure and the need for retreatment."
+  },
+  {
+    "id": 444,
+    "topic": "practice_info_management",
+    "front": "When a treatment protocol conflicts with a patient's specific medical history, what should guide the final decision?",
+    "back": "Clinical judgement applied to that patient's individual circumstances, informed by the evidence, rather than following the standard protocol rigidly regardless of context."
+  },
+  {
+    "id": 445,
+    "topic": "practice_info_management",
+    "front": "Why should a dentist periodically review and update their own clinical protocols?",
+    "back": "Because evidence-based practice requires protocols to reflect current best evidence, not outdated training; protocols that are never reviewed risk falling behind updated clinical guidelines."
+  },
+  {
+    "id": 446,
+    "topic": "practice_info_management",
+    "front": "What documentation is expected when a dentist deviates from a written office protocol for a specific patient?",
+    "back": "The chart should note the deviation and the clinical reasoning behind it, so the record clearly shows an informed decision rather than an unexplained inconsistency."
+  },
+  {
+    "id": 447,
+    "topic": "practice_info_management",
+    "front": "In a Practice and Information Management SJ station, what kind of point-bearing behavior would likely appear for a record-keeping scenario?",
+    "back": "Behaviors such as accurately documenting the relevant clinical findings, recording informed consent, and noting the treatment provided, each worth a point value summing to 1.0."
+  },
+  {
+    "id": 448,
+    "topic": "practice_info_management",
+    "front": "What is a likely Critical Error in a Practice and Information Management station involving records?",
+    "back": "Falsifying a record, backdating an entry, or altering a chart to conceal an error would be treated as a critical error resulting in automatic failure of that station."
+  },
+  {
+    "id": 449,
+    "topic": "practice_info_management",
+    "front": "What administrative step should follow discovering a lab prescription error before the case returns from the lab?",
+    "back": "Contact the lab promptly to correct the prescription, and document the error and the correction made in the patient record."
+  },
+  {
+    "id": 450,
+    "topic": "practice_info_management",
+    "front": "What basic charting habit protects a dentist if a patient later disputes what was discussed at a visit?",
+    "back": "Recording, at the time of the visit, exactly what was discussed, including options presented and questions answered, rather than relying on memory later."
+  },
+  {
+    "id": 451,
+    "topic": "practice_info_management",
+    "front": "Why must radiographs and other diagnostic images be kept as part of the patient record, with dates?",
+    "back": "Dated images allow comparison over time to track disease progression or treatment outcomes, and they support the evidence behind past diagnoses and decisions if the record is reviewed later."
+  },
+  {
+    "id": 452,
+    "topic": "practice_info_management",
+    "front": "What protocol applies to storing patient information electronically in most Canadian jurisdictions?",
+    "back": "Electronic records must be kept secure and confidential, with access limited to authorized staff and appropriate safeguards against unauthorized disclosure, consistent with privacy legislation."
+  },
+  {
+    "id": 453,
+    "topic": "practice_info_management",
+    "front": "When following an infection control protocol, what should happen if a barrier or instrument becomes contaminated mid-procedure?",
+    "back": "It must be replaced or re-sterilized immediately before continuing; continuing with a known-contaminated item is a named IC&S error."
+  },
+  {
+    "id": 454,
+    "topic": "practice_info_management",
+    "front": "What is the practical difference between following a protocol and making an evidence-based decision?",
+    "back": "Following a protocol means applying an established standard procedure consistently; making an evidence-based decision means actively weighing current research, clinical expertise, and patient factors, sometimes justifying a deviation from the standard protocol."
+  },
+  {
+    "id": 455,
+    "topic": "practice_info_management",
+    "front": "Why does NDEB test Practice and Information Management as its own Situational Judgement domain rather than folding it into Professionalism?",
+    "back": "Because record-keeping, protocol adherence, and evidence-based decision making are distinct, practical competencies tied to safe practice management, separate from ethical judgement or communication skills tested elsewhere."
+  },
+  {
+    "id": 456,
+    "topic": "health_promotion",
+    "front": "How many stations make up the Situational Judgement (SJ) component of the NDECC?",
+    "back": "10 stations, 2 stations in each of 5 domains."
+  },
+  {
+    "id": 457,
+    "topic": "health_promotion",
+    "front": "List the 5 domains tested in the SJ component.",
+    "back": "Patient-Centered Care, Professionalism, Communication and Collaboration, Practice and Information Management, and Health Promotion."
+  },
+  {
+    "id": 458,
+    "topic": "health_promotion",
+    "front": "What is the overall pass rule for the SJ component?",
+    "back": "The candidate must pass at least 6 of 10 stations AND at least 1 of the 2 stations in each domain; failing both stations in one domain is an overall fail."
+  },
+  {
+    "id": 459,
+    "topic": "health_promotion",
+    "front": "How is each individual SJ station graded?",
+    "back": "Pass or fail, using a weighted behaviour checklist specific to that station's scenario."
+  },
+  {
+    "id": 460,
+    "topic": "health_promotion",
+    "front": "In the SJ scoring rubric, what are Competent behaviours worth?",
+    "back": "0 points each. They are nice-to-have behaviours that do not by themselves determine pass or fail."
+  },
+  {
+    "id": 461,
+    "topic": "health_promotion",
+    "front": "In the SJ scoring rubric, how must the Minimally Competent behaviour points total for a station to pass?",
+    "back": "They must sum to exactly 1.0."
+  },
+  {
+    "id": 462,
+    "topic": "health_promotion",
+    "front": "What happens if a candidate commits a listed Critical Error during an SJ station?",
+    "back": "Automatic fail for that station, regardless of any other points already earned."
+  },
+  {
+    "id": 463,
+    "topic": "health_promotion",
+    "front": "About how long is each SJ station timed?",
+    "back": "About 20 to 24 minutes including reading and transition time, a disclosed estimate; NDEB does not officially publish exact per-station minutes."
+  },
+  {
+    "id": 464,
+    "topic": "health_promotion",
+    "front": "What is the maximum number of Infection Control and Safety (IC&S) errors a candidate may commit across the whole Clinical Skills day?",
+    "back": "3 errors; a 4th error is an automatic fail."
+  },
+  {
+    "id": 465,
+    "topic": "health_promotion",
+    "front": "Name two IC&S errors related to personal protective equipment.",
+    "back": "Mask not worn or not worn correctly, and eye protection not worn or not worn correctly."
+  },
+  {
+    "id": 466,
+    "topic": "health_promotion",
+    "front": "Is touching or adjusting loupes with gloves on considered an IC&S error?",
+    "back": "No, this is explicitly permitted and is not counted as an error."
+  },
+  {
+    "id": 467,
+    "topic": "health_promotion",
+    "front": "Give an example of an IC&S error related to instrument or material handling.",
+    "back": "Use of contaminated instruments or materials, or unacceptable handling or disposal of amalgam, sharps, or needles."
+  },
+  {
+    "id": 468,
+    "topic": "health_promotion",
+    "front": "Name three patient-level factors that increase caries risk.",
+    "back": "Frequent sugar or fermentable carbohydrate intake, poor oral hygiene, and low salivary flow (xerostomia)."
+  },
+  {
+    "id": 469,
+    "topic": "health_promotion",
+    "front": "How does xerostomia increase caries risk?",
+    "back": "Reduced saliva means less buffering of plaque acids and less clearance of food debris and bacteria, letting demineralization progress unchecked."
+  },
+  {
+    "id": 470,
+    "topic": "health_promotion",
+    "front": "What socioeconomic factor is one of the strongest predictors of high caries risk in a new patient?",
+    "back": "Low household income or lack of dental insurance, which limits access to preventive and restorative care."
+  },
+  {
+    "id": 471,
+    "topic": "health_promotion",
+    "front": "Why are patients with fixed orthodontic appliances considered higher caries risk?",
+    "back": "Brackets and wires create plaque-retentive areas that are harder to clean, increasing demineralization risk around the brackets."
+  },
+  {
+    "id": 472,
+    "topic": "health_promotion",
+    "front": "Why is a history of previous caries activity an important caries risk factor?",
+    "back": "Past caries experience is one of the single strongest predictors of future caries, reflecting ongoing behavioural and biological risk."
+  },
+  {
+    "id": 473,
+    "topic": "health_promotion",
+    "front": "What medical or behavioural factor common in older adults raises caries risk through dry mouth?",
+    "back": "Polypharmacy; many prescription medications list xerostomia as a side effect, reducing salivary protection."
+  },
+  {
+    "id": 474,
+    "topic": "health_promotion",
+    "front": "A patient with visible plaque, frequent snacking, and no fluoride exposure would be classified at what caries risk level?",
+    "back": "High caries risk."
+  },
+  {
+    "id": 475,
+    "topic": "health_promotion",
+    "front": "Define social determinants of health (SDOH) in the dental context.",
+    "back": "The social, economic, and environmental conditions, such as income, education, housing, and employment, that shape a patient's ability to access and maintain oral health."
+  },
+  {
+    "id": 476,
+    "topic": "health_promotion",
+    "front": "How can low health literacy affect a patient's oral health outcomes?",
+    "back": "The patient may not understand home care instructions, follow through on referrals, or recognize warning signs, leading to delayed treatment and worse outcomes."
+  },
+  {
+    "id": 477,
+    "topic": "health_promotion",
+    "front": "Why might a rural patient have worse access to dental care, as an SDOH issue?",
+    "back": "Fewer dental providers, longer travel distances, and limited transportation reduce the likelihood of regular preventive visits."
+  },
+  {
+    "id": 478,
+    "topic": "health_promotion",
+    "front": "How does employment status act as a social determinant of oral health?",
+    "back": "Lack of employer dental benefits or the inability to take time off work reduces the likelihood of seeking timely dental treatment."
+  },
+  {
+    "id": 479,
+    "topic": "health_promotion",
+    "front": "What is a culturally competent approach to discussing oral health with a newcomer patient?",
+    "back": "Ask about the patient's own understanding and beliefs first, use plain language or an interpreter as needed, and avoid assumptions based on background."
+  },
+  {
+    "id": 480,
+    "topic": "health_promotion",
+    "front": "Why should a dentist screen for food insecurity when assessing caries risk?",
+    "back": "Reliance on inexpensive, high-carbohydrate foods increases caries risk, and food insecurity is a social determinant that should guide individualized prevention counselling."
+  },
+  {
+    "id": 481,
+    "topic": "health_promotion",
+    "front": "Name two practical ways a dentist can promote access to care for an uninsured patient.",
+    "back": "Discuss a phased or lower-cost treatment plan, and inform the patient of public dental programs they may qualify for."
+  },
+  {
+    "id": 482,
+    "topic": "health_promotion",
+    "front": "What should a dentist do if a patient cannot afford the ideal treatment plan?",
+    "back": "Present a reasonable alternative option within the patient's means rather than refusing to treat, and document the discussion."
+  },
+  {
+    "id": 483,
+    "topic": "health_promotion",
+    "front": "How can a dental office reduce barriers to care for patients with mobility limitations?",
+    "back": "Offer accessible scheduling, wheelchair-accessible operatories, and flexible appointment times."
+  },
+  {
+    "id": 484,
+    "topic": "health_promotion",
+    "front": "What is one role a dentist can play in connecting a patient to public dental benefit programs?",
+    "back": "Provide information on eligibility for provincial or territorial public dental programs and assist with referral or application steps."
+  },
+  {
+    "id": 485,
+    "topic": "health_promotion",
+    "front": "Why is continuity of care important for promoting access, especially for children?",
+    "back": "Regular recall visits catch problems early and build trust, reducing the likelihood of emergency-only, reactive dental visits."
+  },
+  {
+    "id": 486,
+    "topic": "health_promotion",
+    "front": "What concentration of fluoride varnish is most commonly used in preventive care?",
+    "back": "5% sodium fluoride, equal to 22,600 ppm fluoride."
+  },
+  {
+    "id": 487,
+    "topic": "health_promotion",
+    "front": "List two indications for applying fluoride varnish.",
+    "back": "A high caries risk patient, or a patient with active white spot lesions or early demineralization."
+  },
+  {
+    "id": 488,
+    "topic": "health_promotion",
+    "front": "How often is fluoride varnish typically reapplied for a high caries risk patient?",
+    "back": "Every 3 to 6 months, depending on the patient's individual risk level."
+  },
+  {
+    "id": 489,
+    "topic": "health_promotion",
+    "front": "What is the primary indication for placing a pit and fissure sealant?",
+    "back": "A newly erupted permanent molar or premolar with deep pits and fissures at risk of caries, placed before decay has started."
+  },
+  {
+    "id": 490,
+    "topic": "health_promotion",
+    "front": "On which teeth are sealants most commonly and effectively placed?",
+    "back": "Permanent first and second molars, such as tooth 3.6 or tooth 4.6, soon after eruption."
+  },
+  {
+    "id": 491,
+    "topic": "health_promotion",
+    "front": "Should a sealant be placed over a tooth with an existing frank cavitated lesion?",
+    "back": "No. A sealant is only appropriate for sound or early non-cavitated enamel; a cavitated lesion needs restorative treatment."
+  },
+  {
+    "id": 492,
+    "topic": "health_promotion",
+    "front": "What type of mouthguard offers the best protection and fit for a patient in contact sports?",
+    "back": "A custom-fabricated mouthguard made on a model of the patient's own dentition."
+  },
+  {
+    "id": 493,
+    "topic": "health_promotion",
+    "front": "Name the three general categories of athletic mouthguards.",
+    "back": "Stock (ready-made), boil-and-bite (mouth-formed), and custom-fabricated. A custom-fabricated mouthguard, made from a dental impression, generally offers the best fit, retention, and comfort of the three."
+  },
+  {
+    "id": 494,
+    "topic": "health_promotion",
+    "front": "As part of injury prevention, why should a dentist recommend a mouthguard for a patient who plays contact sports?",
+    "back": "Mouthguards absorb and distribute impact forces, reducing the risk of tooth avulsion, fracture, and jaw injury."
+  },
+  {
+    "id": 495,
+    "topic": "health_promotion",
+    "front": "What patient population should be counselled on mouthguard-type protection even outside organized sports?",
+    "back": "Patients who grind or clench (bruxism) may benefit from a night guard, distinct from an athletic mouthguard, to prevent tooth wear or fracture."
+  },
+  {
+    "id": 496,
+    "topic": "health_promotion",
+    "front": "What are the two most significant modifiable risk factors for oral cancer that should be part of every screening discussion?",
+    "back": "Tobacco use, smoked or smokeless, and heavy alcohol consumption, especially the two combined."
+  },
+  {
+    "id": 497,
+    "topic": "health_promotion",
+    "front": "What visual and palpation steps make up a basic oral cancer screening?",
+    "back": "Extraoral inspection and palpation of the head, neck, and lymph nodes, plus intraoral inspection of the lips, cheeks, tongue including the lateral borders, floor of mouth, and palate for ulcers, lesions, or masses that do not resolve."
+  },
+  {
+    "id": 498,
+    "topic": "health_promotion",
+    "front": "What clinical feature of an oral lesion should prompt urgent referral for possible malignancy?",
+    "back": "A non-healing ulcer or lesion persisting longer than 2 weeks, especially if indurated, fixed, or associated with unexplained numbness."
+  },
+  {
+    "id": 499,
+    "topic": "health_promotion",
+    "front": "What does patient advocacy mean in the context of the Health Promotion domain?",
+    "back": "Acting in the patient's best interest by helping them access needed care, referrals, or resources, and speaking up on their behalf within the healthcare system."
+  },
+  {
+    "id": 500,
+    "topic": "health_promotion",
+    "front": "Give an example of patient advocacy for a child with early childhood caries whose parent faces financial barriers.",
+    "back": "Referring the family to a public dental program, explaining prevention clearly, and prioritizing urgent treatment needs within the family's means."
+  }
+]
